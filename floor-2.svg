@@ -9,12 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
+   width="302.37595"
+   height="119.12334"
    id="svg5986"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="New document 22">
+   sodipodi:docname="floor-2.svg"
+   inkscape:export-filename="/Users/sam/floor-2.png"
+   inkscape:export-xdpi="571.46997"
+   inkscape:export-ydpi="571.46997">
   <defs
      id="defs3" />
   <sodipodi:namedview
@@ -25,10 +28,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1206984"
-     inkscape:cx="291.69142"
-     inkscape:cy="704.78444"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="8.4827937"
+     inkscape:cx="146.85593"
+     inkscape:cy="72.519344"
+     inkscape:current-layer="g6883"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -36,7 +39,12 @@
      inkscape:window-height="711"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="mm"
+     fit-margin-top="8"
+     fit-margin-left="8"
+     fit-margin-right="8"
+     fit-margin-bottom="8" />
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -52,7 +60,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-91.68355,-352.09104)">
     <rect
        style="fill:none;stroke:#000000;stroke-opacity:1"
        id="rect6027"
@@ -352,6 +361,42 @@
            x="218.03725"
            id="tspan6789"
            sodipodi:role="line">BDF</tspan></text>
+      <rect
+         y="394.36282"
+         x="215.87753"
+         height="10.629921"
+         width="10.629921"
+         id="rect7182"
+         style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="218.13243"
+         y="400.76837"
+         id="text7184"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan7186"
+           x="218.13243"
+           y="400.76837">BAY</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect7188"
+         width="10.629921"
+         height="10.629921"
+         x="239.80833"
+         y="394.36282" />
+      <text
+         xml:space="preserve"
+         style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="242.02515"
+         y="400.76691"
+         id="text7190"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan7192"
+           x="242.02515"
+           y="400.76691">PAG</tspan></text>
     </g>
     <g
        id="g6934"
