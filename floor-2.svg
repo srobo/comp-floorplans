@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.4827937"
-     inkscape:cx="146.85593"
-     inkscape:cy="72.519344"
+     inkscape:zoom="5.998241"
+     inkscape:cx="100.55974"
+     inkscape:cy="78.150829"
      inkscape:current-layer="g6883"
      showgrid="false"
      showguides="true"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -397,6 +397,49 @@
            id="tspan7192"
            x="242.02515"
            y="400.76691">PAG</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-opacity:1"
+         id="rect5056"
+         width="45.354332"
+         height="23.385826"
+         x="176.35728"
+         y="357.48218" />
+      <rect
+         style="fill:#00f6bc;fill-opacity:1;stroke:none"
+         id="rect5566"
+         width="7.0866141"
+         height="7.0866141"
+         x="181.8589"
+         y="371.4017" />
+      <text
+         xml:space="preserve"
+         style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="183.05992"
+         y="376.03558"
+         id="text5568"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5570"
+           x="183.05992"
+           y="376.03558">HD</tspan></text>
+      <rect
+         y="371.4017"
+         x="189.63936"
+         height="7.0866141"
+         width="7.0866141"
+         id="rect5632"
+         style="fill:#00f6bc;fill-opacity:1;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="190.02007"
+         y="376.03558"
+         id="text5634"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5636"
+           x="190.02007"
+           y="376.03558">BCS</tspan></text>
     </g>
     <g
        id="g6934"
