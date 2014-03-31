@@ -13,7 +13,7 @@
    height="333.28046"
    id="svg3051"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="floor-0.svg"
    inkscape:export-filename="/Users/sam/dev/srobo/floor-plan/floor-0.png"
    inkscape:export-xdpi="349.13431"
@@ -42,16 +42,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="245.65343"
-     inkscape:cy="122.28874"
-     inkscape:current-layer="layer2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="269.80577"
+     inkscape:cy="151.79737"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="711"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1168"
+     inkscape:window-height="931"
+     inkscape:window-x="683"
+     inkscape:window-y="63"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
      units="mm"
@@ -81,7 +81,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-119.3185,-194.68712)">
+     transform="translate(-119.3185,-194.68712)"
+     style="display:inline">
     <rect
        style="fill:#0000ff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3059"
@@ -97,13 +98,6 @@
        height="30.383495"
        x="259.08835"
        y="323.71072" />
-    <rect
-       y="370.50494"
-       x="335.63617"
-       height="30.118111"
-       width="30.118111"
-       id="rect5504"
-       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5506"
@@ -624,6 +618,13 @@
          y="386.65384"
          style="font-size:3px">Arena 0</tspan></text>
     <rect
+       y="370.50494"
+       x="335.63617"
+       height="30.118111"
+       width="30.118111"
+       id="rect5504"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect5949"
        width="30.118111"
@@ -943,7 +944,7 @@
          id="tspan7153"
          sodipodi:role="line">16.56m</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-opacity:1"
        id="rect3304"
        width="45.496063"
        height="24.555119"
@@ -1052,29 +1053,8 @@
          id="tspan4572"
          sodipodi:role="line">12.84m</tspan></text>
     <g
-       id="g5606"
-       transform="translate(0.00907135,0.04541016)">
-      <rect
-         style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect5572"
-         width="10.629921"
-         height="3.5433071"
-         x="365.74521"
-         y="370.45953" />
-      <text
-         xml:space="preserve"
-         style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="367.06628"
-         y="373.22546"
-         id="text5574"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan5576"
-           x="367.06628"
-           y="373.22546">A0SB</tspan></text>
-    </g>
-    <g
-       id="g5611">
+       id="g5611"
+       transform="translate(6.7175146,0)">
       <rect
          style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="rect5580"
@@ -1095,30 +1075,56 @@
            y="373.74429">A0E</tspan></text>
     </g>
     <g
-       id="g5616"
-       transform="translate(3.5523605,26.620214)">
-      <rect
-         y="370.45953"
-         x="365.74521"
-         height="3.5433071"
-         width="10.629921"
-         id="rect5618"
-         style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text5620"
-         y="373.22546"
-         x="367.06628"
-         style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
+       id="g3188"
+       transform="translate(-0.04331156,0)">
+      <g
+         transform="translate(-3.490933,-13.629786)"
+         id="g5606">
+        <rect
+           y="370.45953"
+           x="365.74521"
+           height="3.5433071"
+           width="10.629921"
+           id="rect5572"
+           style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5574"
            y="373.22546"
            x="367.06628"
-           id="tspan5622"
-           sodipodi:role="line">A1SB</tspan></text>
+           style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="373.22546"
+             x="367.06628"
+             id="tspan5576"
+             sodipodi:role="line">A0SB</tspan></text>
+      </g>
+      <g
+         transform="translate(7.138988,-13.629786)"
+         id="g5616">
+        <rect
+           style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect5618"
+           width="10.629921"
+           height="3.5433071"
+           x="365.74521"
+           y="370.45953" />
+        <text
+           xml:space="preserve"
+           style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="367.06628"
+           y="373.22546"
+           id="text5620"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5622"
+             x="367.06628"
+             y="373.22546">A1SB</tspan></text>
+      </g>
     </g>
     <g
        id="g5624"
-       transform="translate(44.822727,25.781105)">
+       transform="translate(39.342649,-0.02829255)">
       <rect
          y="370.46695"
          x="347.03882"
@@ -1325,5 +1331,6 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer#1"
-     transform="translate(-119.3185,-194.68712)" />
+     transform="translate(-119.3185,-194.68712)"
+     style="display:inline" />
 </svg>
