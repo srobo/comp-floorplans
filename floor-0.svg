@@ -43,10 +43,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="61.702818"
-     inkscape:cy="100.57865"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="8"
+     inkscape:cx="168.36518"
+     inkscape:cy="95.871628"
+     inkscape:current-layer="g3188-2"
      showgrid="false"
      inkscape:window-width="2048"
      inkscape:window-height="1104"
@@ -1321,5 +1321,35 @@
        width="7.0866141"
        id="rect5696"
        style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <g
+       style="display:inline"
+       id="g3188-2"
+       transform="translate(-36.699407,0.03036905)">
+      <rect
+         style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5572-8"
+         width="10.629921"
+         height="3.5433071"
+         x="362.25427"
+         y="356.82974" />
+      <rect
+         y="356.82974"
+         x="372.88419"
+         height="3.5433071"
+         width="10.629921"
+         id="rect5618-2"
+         style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="362.32535"
+         y="359.34567"
+         id="text5574-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5576-4"
+           x="362.32535"
+           y="359.34567">Scoring Desks</tspan></text>
+    </g>
   </g>
 </svg>
