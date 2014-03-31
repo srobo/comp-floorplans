@@ -42,15 +42,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="269.80577"
-     inkscape:cy="151.79737"
+     inkscape:zoom="2"
+     inkscape:cx="172.56911"
+     inkscape:cy="169.28946"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1168"
-     inkscape:window-height="931"
-     inkscape:window-x="683"
-     inkscape:window-y="63"
+     inkscape:window-width="1702"
+     inkscape:window-height="967"
+     inkscape:window-x="234"
+     inkscape:window-y="52"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -71,12 +71,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer"
-     transform="translate(-119.3185,-194.68712)"
-     style="display:inline" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -1327,10 +1321,4 @@
        id="rect5696"
        style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer#1"
-     transform="translate(-119.3185,-194.68712)"
-     style="display:inline" />
 </svg>
