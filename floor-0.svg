@@ -43,10 +43,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="168.36518"
-     inkscape:cy="95.871628"
-     inkscape:current-layer="g3188-2"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="154.24626"
+     inkscape:cy="78.14913"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2048"
      inkscape:window-height="1104"
@@ -1049,7 +1049,7 @@
          sodipodi:role="line">12.84m</tspan></text>
     <g
        id="g5611"
-       transform="translate(6.7175146,0)">
+       transform="translate(7.7175146,25.625)">
       <rect
          style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="rect5580"
@@ -1071,7 +1071,7 @@
     </g>
     <g
        id="g3188"
-       transform="translate(-0.04331156,0)">
+       transform="translate(0.45668844,53.875)">
       <g
          transform="translate(-3.490933,-13.629786)"
          id="g5606">
@@ -1119,7 +1119,7 @@
     </g>
     <g
        id="g5624"
-       transform="translate(39.342649,-0.02829255)">
+       transform="translate(37.217649,25.721707)">
       <rect
          y="370.46695"
          x="347.03882"
@@ -1321,13 +1321,38 @@
        width="7.0866141"
        id="rect5696"
        style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       y="356.98511"
+       x="348.67987"
+       height="3.5433071"
+       width="10.629921"
+       id="rect5572-8"
+       style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect5618-2"
+       width="24.754921"
+       height="3.5433071"
+       x="359.30978"
+       y="356.98511" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5574-2"
+       y="359.38538"
+       x="351.54352"
+       style="font-size:2.35418773px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="359.38538"
+         x="351.54352"
+         id="tspan5576-4"
+         sodipodi:role="line">Scoring + Comp Software</tspan></text>
     <g
        style="display:inline"
-       id="g3188-2"
-       transform="translate(-36.699407,0.03036905)">
+       id="g3188-2-0"
+       transform="translate(22.1756,0.0303744)">
       <rect
          style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect5572-8"
+         id="rect5572-8-1"
          width="10.629921"
          height="3.5433071"
          x="362.25427"
@@ -1336,20 +1361,20 @@
          y="356.82974"
          x="372.88419"
          height="3.5433071"
-         width="10.629921"
-         id="rect5618-2"
+         width="13.942421"
+         id="rect5618-2-6"
          style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <text
          xml:space="preserve"
-         style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="362.32535"
-         y="359.34567"
-         id="text5574-2"
+         style="font-size:2.41351652px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="364.98901"
+         y="359.27509"
+         id="text5574-2-5"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan5576-4"
-           x="362.32535"
-           y="359.34567">Scoring Desks</tspan></text>
+           id="tspan5576-4-3"
+           x="364.98901"
+           y="359.27509">Sound/LX Desk</tspan></text>
     </g>
   </g>
 </svg>
