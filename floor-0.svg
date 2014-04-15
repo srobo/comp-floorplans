@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568543"
-     inkscape:cx="154.24626"
+     inkscape:cx="154.95336"
      inkscape:cy="78.14913"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -78,6 +78,13 @@
      id="layer1"
      transform="translate(-188.18479,-292.66801)"
      style="display:inline">
+    <rect
+       y="370.50494"
+       x="335.63617"
+       height="30.118111"
+       width="30.118111"
+       id="rect5504"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <rect
        style="fill:#0000ff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3059"
@@ -611,14 +618,7 @@
          id="tspan5947"
          x="344.88199"
          y="386.65384"
-         style="font-size:3px">Arena 0</tspan></text>
-    <rect
-       y="370.50494"
-       x="335.63617"
-       height="30.118111"
-       width="30.118111"
-       id="rect5504"
-       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="font-size:3px">Arena A</tspan></text>
     <rect
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect5949"
@@ -644,7 +644,7 @@
          y="386.63553"
          x="389.2341"
          id="tspan5955"
-         sodipodi:role="line">Arena 1</tspan></text>
+         sodipodi:role="line">Arena B</tspan></text>
     <rect
        y="385.0325"
        x="365.75427"
