@@ -1,10 +1,10 @@
-all: floor-0.png floor-2.png
+all: floor-0.pdf floor-2.pdf
 
-%.png: %.svg
-	inkscape -e $@ $<
+%.pdf: %.svg
+	inkscape -A $@ $<
 
 .PHONY: clean
 
 clean:
-	-rm -f *.png
+	-rm -f *.pdf
 
