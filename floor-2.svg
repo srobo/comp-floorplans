@@ -28,10 +28,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.9991205"
-     inkscape:cx="140.09094"
-     inkscape:cy="39.926846"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="5.9982409"
+     inkscape:cx="33.495913"
+     inkscape:cy="1.0927565"
+     inkscape:current-layer="layer4"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -857,5 +857,145 @@
            id="tspan6849"
            sodipodi:role="line">HAM</tspan></text>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Network">
+    <text
+       xml:space="preserve"
+       style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="9.9870949"
+       y="106.28261"
+       id="text3197"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3199"
+         x="9.9870949"
+         y="106.28261"
+         style="font-size:3px">Network Legend:</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#fd960e;stroke-width:1.31340897;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect3975"
+       width="5.7732048"
+       height="5.7732053"
+       x="16.293407"
+       y="108.97278" />
+    <text
+       xml:space="preserve"
+       style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="18.157864"
+       y="112.81903"
+       id="text3993"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3995"
+         x="18.157864"
+         y="112.81903">6</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#fd960e;stroke-width:1.31340897;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect3975-0"
+       width="5.7732048"
+       height="5.7732053"
+       x="5.6634865"
+       y="108.97278" />
+    <text
+       xml:space="preserve"
+       style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="7.5279427"
+       y="112.81903"
+       id="text3993-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3995-3"
+         x="7.5279427"
+         y="112.81903">1</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#fd960e;stroke-width:1.31340897;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect3975-7"
+       width="5.7732048"
+       height="5.7732053"
+       x="26.923328"
+       y="108.97278" />
+    <text
+       xml:space="preserve"
+       style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="28.006535"
+       y="112.91278"
+       id="text3993-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3995-9"
+         x="28.006535"
+         y="112.91278">11</tspan></text>
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect4047"
+       width="17.766058"
+       height="7.8665628"
+       x="11.369267"
+       y="117.55945" />
+    <path
+       style="fill:#00ffff;stroke:#00ff04;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5.20000076;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 3.85626,129.49187 31.377867,0"
+       id="path4049"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4051"
+       style="font-size:3px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(-5.424517,-32.677476)"><flowRegion
+         id="flowRegion4053"><rect
+           id="rect4055"
+           width="23.864857"
+           height="7.7781682"
+           x="45.34322"
+           y="140.24904"
+           style="font-size:3px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4057">Access point</flowPara><flowPara
+         id="flowPara4059">(with channel)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4077"
+       style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(-3.562608,-28.611606)"><flowRegion
+         id="flowRegion4079"><rect
+           id="rect4081"
+           width="16.61701"
+           height="8.0433397"
+           x="44.724503"
+           y="147.93881" /></flowRegion><flowPara
+         id="flowPara4083"
+         style="font-size:3px">Router</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4085"
+       style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(-6.500108,-30.235526)"><flowRegion
+         id="flowRegion4087"><rect
+           id="rect4089"
+           width="23.157747"
+           height="6.2755699"
+           x="47.641319"
+           y="158.01509" /></flowRegion><flowPara
+         id="flowPara4091"
+         style="font-size:3px">Network link</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4095"
+       style="font-size:2px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(-15.765953,-25.263256)"><flowRegion
+         id="flowRegion4097"><rect
+           id="rect4099"
+           width="46.138721"
+           height="10.429825"
+           x="20.506096"
+           y="158.28026"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4101"
+         style="font-size:3px;text-align:center;text-anchor:middle">APs with more than one network link require switches</flowPara></flowRoot>    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect4105"
+       width="64.523491"
+       height="38.183765"
+       x="1.5581629"
+       y="102.96496" />
   </g>
 </svg>
