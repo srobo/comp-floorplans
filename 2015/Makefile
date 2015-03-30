@@ -1,4 +1,4 @@
-all: floor-0.pdf floor-2.pdf team-map.pdf
+all: floor-0.pdf floor-2.pdf layout.pdf
 
 %.pdf: %.svg
 	inkscape -A $(shell pwd)/$@ $(shell pwd)/$<
