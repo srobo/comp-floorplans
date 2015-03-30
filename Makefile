@@ -1,10 +1,5 @@
-all: floor-0.pdf floor-2.pdf team-map.pdf
+.PHONY: all
 
-%.pdf: %.svg
-	inkscape -A $@ $<
-
-.PHONY: clean
-
-clean:
-	-rm -f *.pdf
-
+all:
+	$(MAKE) -C 2014
+	$(MAKE) -C 2015
