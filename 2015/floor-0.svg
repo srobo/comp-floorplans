@@ -78,9 +78,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.8757746"
-     inkscape:cx="163.1334"
-     inkscape:cy="65.967349"
+     inkscape:zoom="2.7405865"
+     inkscape:cx="144.68921"
+     inkscape:cy="102.85885"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
@@ -684,9 +684,9 @@
     <rect
        style="fill:#00ff00;stroke:none"
        id="rect3296"
-       width="24.80315"
+       width="31.889763"
        height="21.259842"
-       x="398.30289"
+       x="391.21628"
        y="347.61108" />
     <text
        xml:space="preserve"
@@ -714,7 +714,201 @@
          x="410.44507"
          y="362.71176"
          id="tspan4092">area</tspan></text>
-  </g>
+    <rect
+       style="fill:#00ff00;stroke:none"
+       id="rect3298"
+       width="95.669289"
+       height="63.779526"
+       x="353.80682"
+       y="395.47723" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3300"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:4px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3302"><rect
+           id="rect3305"
+           width="11.35257"
+           height="4.38622"
+           x="148.35744"
+           y="178.50879" /></flowRegion><flowPara
+         id="flowPara3307"></flowPara></flowRoot>    <rect
+       style="fill:#000080;stroke:none"
+       id="rect3315"
+       width="63.779526"
+       height="31.889763"
+       x="353.80682"
+       y="395.47723" />
+    <rect
+       style="fill:#ff0000;stroke:none"
+       id="rect3317"
+       width="47.834644"
+       height="15.944881"
+       x="353.80682"
+       y="395.47723" />
+    <path
+       style="fill:none;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 397.323,369.81976 -7.02404,0 0,-7.02404"
+       id="path3319"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#00ffff;stroke:none"
+       id="rect4107"
+       width="21.259842"
+       height="10.629921"
+       x="353.80682"
+       y="448.62686" />
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="354.81375"
+       y="455.68616"
+       id="text4109"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4111"
+         x="354.81375"
+         y="455.68616">Staging 1</tspan></text>
+    <rect
+       style="fill:#00ffff;stroke:none;display:inline"
+       id="rect4107-0"
+       width="21.259842"
+       height="10.629921"
+       x="380.38165"
+       y="448.62686" />
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="381.52597"
+       y="455.9285"
+       id="text4143"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4145"
+         x="381.52597"
+         y="455.9285">Staging 2</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000080;stroke-width:0.98726195px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 403.90677,459.3655 0,-23.82847"
+       id="path4147"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#00ffff;stroke:none"
+       id="rect4151"
+       width="42.519684"
+       height="10.629921"
+       x="406.95645"
+       y="448.62683" />
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="408.01022"
+       y="455.45068"
+       id="text4153"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4155"
+         x="408.01022"
+         y="455.45068">Shepherding, sound</tspan></text>
+    <rect
+       style="fill:#00ffff;stroke:none"
+       id="rect4157"
+       width="10.629921"
+       height="42.519684"
+       x="438.84622"
+       y="395.47723" />
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="457.01715"
+       y="409.72308"
+       id="text4159"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4161"
+         x="457.01715"
+         y="409.72308">Scoring</tspan><tspan
+         sodipodi:role="line"
+         x="457.01715"
+         y="414.72308"
+         id="tspan4163">desk,</tspan><tspan
+         sodipodi:role="line"
+         x="457.01715"
+         y="419.72308"
+         id="tspan4165">Maybe</tspan><tspan
+         sodipodi:role="line"
+         x="457.01715"
+         y="424.72308"
+         id="tspan4167">Video</tspan></text>
+    <rect
+       style="fill:#00ffff;stroke:none"
+       id="rect4169"
+       width="10.629921"
+       height="21.259842"
+       x="406.95645"
+       y="406.10718" />
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="418.58875"
+       y="409.97629"
+       id="text4171"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4173"
+         x="418.58875"
+         y="409.97629">Judges</tspan><tspan
+         sodipodi:role="line"
+         x="418.58875"
+         y="414.97629"
+         id="tspan4175">Desk</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000080;stroke-width:1.1074115px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 422.17502,347.02114 -7.27758,0"
+       id="path4178"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#00ff00;stroke:none"
+       id="rect4180"
+       width="26.574802"
+       height="5.2908382"
+       x="363.67404"
+       y="423.86288" />
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="376.72083"
+       y="428.05908"
+       id="text4182"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4184"
+         x="376.72083"
+         y="428.05908">Arenas</tspan><tspan
+         sodipodi:role="line"
+         x="376.72083"
+         y="433.05908"
+         id="tspan4186">Entrance</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4212"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:4px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4214"><rect
+           id="rect4216"
+           width="1.824427"
+           height="18.974041"
+           x="76.261047"
+           y="133.75755" /></flowRegion><flowPara
+         id="flowPara4218"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4220"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:4px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4222"><rect
+           id="rect4224"
+           width="13.50076"
+           height="8.7572498"
+           x="183.53735"
+           y="197.61249" /></flowRegion><flowPara
+         id="flowPara4226"></flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -1772,8 +1966,8 @@
        id="rect3975-6"
        width="5.7732048"
        height="5.7732053"
-       x="101.61555"
-       y="121.07716" />
+       x="63.615547"
+       y="97.077164" />
     <text
        xml:space="preserve"
        style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -1790,19 +1984,19 @@
        id="rect3975-0-39"
        width="5.7732048"
        height="5.7732053"
-       x="100.05005"
-       y="131.98553" />
+       x="62.050049"
+       y="107.98553" />
     <text
        xml:space="preserve"
        style="font-size:3px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="101.91452"
-       y="135.83179"
+       x="63.91452"
+       y="111.83179"
        id="text3993-7-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3995-3-5"
-         x="101.91452"
-         y="135.83179">1</tspan></text>
+         x="63.91452"
+         y="111.83179">1</tspan></text>
     <path
        style="fill:none;stroke:#00ff04;stroke-width:0.43010196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 154.30949,19.42712 -48.21951,0 0,13.249738"
