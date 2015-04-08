@@ -79,8 +79,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="21.924692"
-     inkscape:cx="246.61956"
-     inkscape:cy="22.814257"
+     inkscape:cx="161.85757"
+     inkscape:cy="138.93907"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1280"
@@ -2578,7 +2578,7 @@
          id="tspan3430"
          x="158.77075"
          y="24.420273"
-         style="font-size:1px;fill:#00ff00">~16m x 2</tspan></text>
+         style="font-size:1px;fill:#00ff00">~18m</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2793,5 +2793,27 @@
          id="tspan3589"
          x="242.51196"
          y="175.99303">~8m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="153.20625"
+       y="24.28344"
+       id="text3461"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3463"
+         x="153.20625"
+         y="24.28344">~16m</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3465"
+       y="24.28344"
+       x="153.20625"
+       style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="24.28344"
+         x="153.20625"
+         id="tspan3467"
+         sodipodi:role="line">~16m</tspan></text>
   </g>
 </svg>
