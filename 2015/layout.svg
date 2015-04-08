@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="549.58747"
-     inkscape:cy="506.90154"
+     inkscape:zoom="1.4"
+     inkscape:cx="509.02478"
+     inkscape:cy="664.15573"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1108,7 +1108,7 @@
        id="rect3304" />
     <g
        id="g6679"
-       transform="translate(0,103.23351)">
+       transform="translate(-38,99.23351)">
       <rect
          y="219.01701"
          x="539.5672"
@@ -1119,19 +1119,19 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:22.69713783px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         x="565.97131"
+         x="569.97131"
          y="264.7818"
          id="text5953"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan5955"
-           x="565.97131"
+           x="569.97131"
            y="264.7818"
            style="font-size:8.51142597px">Arena</tspan></text>
     </g>
     <g
        id="g6674"
-       transform="translate(0,103.23351)">
+       transform="translate(-8,99.23351)">
       <rect
          style="display:inline;fill:#ffb7b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="rect5504"
@@ -1143,12 +1143,12 @@
          sodipodi:linespacing="125%"
          id="text5945"
          y="264.83377"
-         x="440.13809"
+         x="444.13809"
          style="font-style:normal;font-weight:normal;font-size:22.69713783px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-size:8.51142597px"
            y="264.83377"
-           x="440.13809"
+           x="444.13809"
            id="tspan5947"
            sodipodi:role="line">Arena</tspan></text>
     </g>
@@ -1372,21 +1372,21 @@
     <rect
        style="fill:#ffb7b7;fill-opacity:1;stroke:none"
        id="rect6642"
-       width="98.793655"
-       height="16.293657"
-       x="470.06467"
-       y="431.37744" />
+       width="101.6508"
+       height="35.705643"
+       x="564.56097"
+       y="411.96545" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.69713783px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="478.23203"
-       y="441.87241"
+       x="575.37488"
+       y="432.01526"
        id="text5945-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5947-5"
-         x="478.23203"
-         y="441.87241"
+         x="575.37488"
+         y="432.01526"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.51142597px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Robot Staging Bays</tspan></text>
     <text
        xml:space="preserve"
