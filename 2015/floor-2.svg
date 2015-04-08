@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="102.32371"
-     inkscape:cy="74.280591"
+     inkscape:zoom="45.254834"
+     inkscape:cx="55.55646"
+     inkscape:cy="70.915213"
      inkscape:current-layer="layer4"
      showgrid="false"
      showguides="true"
@@ -1510,18 +1510,18 @@
        id="path4060"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 178.94221,56.297393 0,18.738329 -16.83798,0"
+       style="fill:none;stroke:#00ff00;stroke-width:0.3183853;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 178.94221,56.297393 0,18.738329 -20.21858,0"
        id="path4062"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#00ff00;stroke-width:0.28845614;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 180.48793,56.340539 0,18.740426 23.95485,0"
+       style="fill:none;stroke:#00ff00;stroke-width:0.30950019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 180.48793,56.340539 0,18.740426 27.57755,0"
        id="path4064"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 181.06353,56.341587 0,18.163805 44.54773,0"
+       style="fill:none;stroke:#00ff00;stroke-width:0.30233729;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 181.06353,56.341587 0,18.163805 48.23515,0"
        id="path4066"
        inkscape:connector-curvature="0" />
     <text
@@ -1553,19 +1553,30 @@
        id="path4103"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 103.50276,55.943839 0,19.710602 17.14733,0"
+       style="fill:none;stroke:#00ff00;stroke-width:0.31691989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 103.50276,55.943839 0,19.710602 20.40094,0"
        id="path4105"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 102.22112,55.988033 0,20.417709 -25.676811,0"
+       style="fill:none;stroke:#00ff00;stroke-width:0.3086307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 102.22112,55.988033 0,20.417709 -28.971704,0"
        id="path4107"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 101.55821,56.032228 0,19.710601 -46.050328,0"
+       style="fill:none;stroke:#00ff00;stroke-width:0.30109656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 101.55821,56.032228 0,19.710601 -49.453721,0"
        id="path4109"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="136.3125"
+       y="55.686279"
+       id="text3231"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3233"
+         x="136.3125"
+         y="55.686279">~21m</tspan></text>
   </g>
 </svg>
