@@ -78,10 +78,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.503099"
-     inkscape:cx="98.361995"
-     inkscape:cy="107.03756"
-     inkscape:current-layer="layer2"
+     inkscape:zoom="5.4811732"
+     inkscape:cx="109.40231"
+     inkscape:cy="123.20721"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="977"
@@ -1943,7 +1943,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Network"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,24.820693)">
     <text
        xml:space="preserve"
@@ -1958,7 +1958,7 @@
          y="106.83876"
          style="font-size:3px">Network Legend:</tspan></text>
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffff00;stroke-width:1.31340897000000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffff00;stroke-width:1.31340897;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3975"
        width="5.7732048"
        height="5.7732053"
@@ -2005,7 +2005,7 @@
          x="13.040844"
          y="113.37518">1</tspan></text>
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffff00;stroke-width:1.31340897000000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffff00;stroke-width:1.31340897;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3975-7"
        width="5.7732048"
        height="5.7732053"
@@ -2844,19 +2844,19 @@
          y="39.042847"
          id="tspan3554-6">~13m</tspan></text>
     <path
-       style="fill:none;stroke:#00ff00;stroke-width:0.29055118000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#00ff00;stroke-width:0.29055119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 45.998366,46.230661 -1.345515,0 0,40.319836 3.010304,0"
        id="path4312"
        inkscape:connector-curvature="0"
        transform="translate(0,-24.820693)" />
     <path
-       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 48.689396,86.710135 28.262964,0"
        id="path4314"
        inkscape:connector-curvature="0"
        transform="translate(0,-24.820693)" />
     <path
-       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 78.710073,62.789988 c -0.161258,0.04838 27.300997,0 27.300997,0"
        id="path4316"
        inkscape:connector-curvature="0"
@@ -2993,7 +2993,7 @@
          x="90.445969"
          y="39.289349">~8m</tspan></text>
     <path
-       style="fill:none;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#00ff00;stroke-width:0.29055119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 256.14955,131.24896 0,59.24827 -14.04809,0"
        id="path4295"
        inkscape:connector-curvature="0"
@@ -3011,13 +3011,13 @@
          x="256.74249"
          y="174.2142">~8m</tspan></text>
     <path
-       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 259.20625,144.8381 0,16.15806"
        id="path4304"
        inkscape:connector-curvature="0"
        transform="translate(0,-24.820693)" />
     <path
-       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 258.91599,129.71209 0,-10.61078"
        id="path4306"
        inkscape:connector-curvature="0"
@@ -3035,7 +3035,7 @@
          x="260.56082"
          y="120.8429">To Lighting / sound</tspan></text>
     <path
-       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 254.56202,129.48633 0,-10.25601"
        id="path4313"
        inkscape:connector-curvature="0"
@@ -3056,7 +3056,7 @@
          y="98.175247"
          id="tspan4320">Router</tspan></text>
     <path
-       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 232.66005,78.568629 0,-26.545413"
        id="path4322"
        inkscape:connector-curvature="0"
@@ -3095,7 +3095,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="FloorProtection">
+     inkscape:label="CableProtection"
+     style="display:inline">
     <path
        style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 47.764646,44.890341 0,37.831147"
