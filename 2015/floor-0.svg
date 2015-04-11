@@ -78,10 +78,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="21.924692"
-     inkscape:cx="96.899174"
-     inkscape:cy="126.45861"
-     inkscape:current-layer="layer4"
+     inkscape:zoom="5.481173"
+     inkscape:cx="195.69429"
+     inkscape:cy="69.24778"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="977"
@@ -1489,7 +1489,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Bays"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,24.820693)">
     <g
        style="display:inline"
@@ -3025,5 +3025,35 @@
          id="tspan3515"
          x="90.445969"
          y="39.289349">~8m</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="FloorProtection">
+    <path
+       style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.764646,44.890341 0,37.831147"
+       id="path3504"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:0.99721372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.37656,82.271358 58.57286,0 0,-7.420658"
+       id="path3506"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.925904,61.499924 58.181916,0"
+       id="path4294"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.018262,45.309612 44.474978,0"
+       id="path4296"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.19458,44.398671 0,9.030453"
+       id="path4298"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
