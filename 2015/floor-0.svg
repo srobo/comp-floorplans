@@ -78,11 +78,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.503099"
-     inkscape:cx="211.96956"
-     inkscape:cy="125.45501"
+     inkscape:zoom="2.7405866"
+     inkscape:cx="72.188479"
+     inkscape:cy="141.33996"
      inkscape:current-layer="layer5"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1280"
      inkscape:window-height="977"
      inkscape:window-x="-2"
@@ -861,6 +861,68 @@
          x="414.52664"
          y="318.66415"
          id="tspan4302">Lighting</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.05376029px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 354.84619,311.75185 0,-3.64655"
+       id="path3528"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 177.10624,43.858911 0,-3.740075"
+       id="path3530"
+       inkscape:connector-curvature="0"
+       transform="translate(188.18479,267.84733)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 166.75262,40.711775 c 0,0 5.38206,-0.68416 5.19962,3.283968"
+       id="path3532"
+       inkscape:connector-curvature="0"
+       transform="translate(188.18479,267.84733)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 365.56469,308.65033 c 0,0 -4.78912,-1.09466 -5.5645,3.23835"
+       id="path3534"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:2px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="360.13782"
+       y="302.72095"
+       id="text3536"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3538"
+         x="360.13782"
+         y="302.72095">Staff door</tspan><tspan
+         sodipodi:role="line"
+         x="360.13782"
+         y="305.22095"
+         id="tspan3540">Approx location</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.01304972px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 412.86297,311.61502 0,-8.42559"
+       id="path3542"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.02124286px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 406.6143,311.70624 0,-8.37215"
+       id="path3546"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:2px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="409.85345"
+       y="298.93524"
+       id="text3548"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3550"
+         x="409.85345"
+         y="298.93524">Fire escape</tspan><tspan
+         sodipodi:role="line"
+         x="409.85345"
+         y="301.43524"
+         id="tspan3552">Approx location</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3131,6 +3193,16 @@
        style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 234.01773,55.436625 0,23.092157"
        id="path3526"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 225.72722,45.044789 -8.9853,0"
+       id="path3556"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:#aa0000;stroke-width:1.08142304px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 177.66032,45.149416 -11.7193,0"
+       id="path3556-5"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
