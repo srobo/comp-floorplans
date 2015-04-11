@@ -81,7 +81,7 @@
      inkscape:zoom="5.4811732"
      inkscape:cx="109.40231"
      inkscape:cy="123.20721"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="977"
@@ -1464,18 +1464,6 @@
          id="tspan3602"
          x="64.63224"
          y="83.637589">8.5m</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
-       x="124.10665"
-       y="100.18809"
-       id="text4255"
-       sodipodi:linespacing="125%"
-       transform="translate(0,-24.820693)"><tspan
-         sodipodi:role="line"
-         id="tspan4257"
-         x="124.10665"
-         y="100.18809">~45m</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3091,6 +3079,18 @@
          id="tspan3522"
          x="109.20398"
          y="94.203064">Via truss</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="124.10665"
+       y="100.18809"
+       id="text4255"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-24.820693)"><tspan
+         sodipodi:role="line"
+         id="tspan4257"
+         x="124.10665"
+         y="100.18809">~45m</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
