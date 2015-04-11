@@ -79,9 +79,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="21.924692"
-     inkscape:cx="44.248514"
-     inkscape:cy="151.41343"
-     inkscape:current-layer="layer2"
+     inkscape:cx="96.899174"
+     inkscape:cy="126.45861"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="977"
@@ -2635,15 +2635,14 @@
     <text
        xml:space="preserve"
        style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
-       x="90.172302"
-       y="62.650505"
+       x="89.898636"
+       y="37.556149"
        id="text3546"
-       sodipodi:linespacing="125%"
-       transform="translate(0,-24.820693)"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3548"
-         x="90.172302"
-         y="62.650505">~21m</tspan></text>
+         x="89.898636"
+         y="37.556149">~21m</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2982,5 +2981,49 @@
          x="37.282871"
          y="39.417381"
          id="tspan3512">        provide backups too. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="41.28207"
+       y="50.224911"
+       id="text3496"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3499"
+         x="41.28207"
+         y="50.224911">~12m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="60.616589"
+       y="63.280571"
+       id="text3501"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3503"
+         x="60.616589"
+         y="63.280571">~8m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="61.209526"
+       y="40.931339"
+       id="text3505"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3509"
+         x="61.209526"
+         y="40.931339">~8m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="90.445969"
+       y="39.289349"
+       id="text3513"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3515"
+         x="90.445969"
+         y="39.289349">~8m</tspan></text>
   </g>
 </svg>
