@@ -78,10 +78,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.481173"
-     inkscape:cx="127.44665"
-     inkscape:cy="120.91986"
-     inkscape:current-layer="layer4"
+     inkscape:zoom="21.924692"
+     inkscape:cx="134.10225"
+     inkscape:cy="94.60818"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="977"
@@ -1472,6 +1472,41 @@
          id="tspan3602"
          x="64.63224"
          y="83.637589">8.5m</tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.29055118000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 46.066782,44.885146 0,39.829521 62.395408,0 0,16.035473 20.61602,0"
+       id="path3467"
+       inkscape:connector-curvature="0"
+       transform="translate(0,-24.820693)" />
+    <text
+       xml:space="preserve"
+       style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="124.10665"
+       y="100.18809"
+       id="text4255"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-24.820693)"><tspan
+         sodipodi:role="line"
+         id="tspan4257"
+         x="124.10665"
+         y="100.18809">~45m</tspan></text>
+    <path
+       style="fill:#000000;stroke:#00ff00;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 50.582239,46.025412 78.404751,0"
+       id="path4259"
+       inkscape:connector-curvature="0"
+       transform="translate(0,-24.820693)" />
+    <text
+       xml:space="preserve"
+       style="font-size:1px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="124.83642"
+       y="22.550234"
+       id="text4261"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4263"
+         x="124.83642"
+         y="22.550234">~25m</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2522,14 +2557,14 @@
     <text
        xml:space="preserve"
        style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
-       x="122.32783"
-       y="22.459013"
+       x="137.92668"
+       y="21.980103"
        id="text3418"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3420"
-         x="122.32783"
-         y="22.459013">~35m</tspan></text>
+         x="137.92668"
+         y="21.980103">~35m</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2823,5 +2858,19 @@
          id="tspan4319"
          x="156.49023"
          y="40.16444">~10m</tspan></text>
+    <rect
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;display:inline"
+       id="rect4310-8-0-9"
+       width="2.1259842"
+       height="2.1259842"
+       x="128.84653"
+       y="20.586985" />
+    <rect
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;display:inline"
+       id="rect4310-8-0-1"
+       width="2.1259842"
+       height="2.1259842"
+       x="129.06427"
+       y="74.030739" />
   </g>
 </svg>
