@@ -28,10 +28,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="166.07264"
-     inkscape:cy="72.090015"
-     inkscape:current-layer="layer5"
+     inkscape:zoom="8"
+     inkscape:cx="161.25868"
+     inkscape:cy="81.889773"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -338,6 +338,21 @@
        width="7.0866141"
        id="rect5678-0-8"
        style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:4px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="239.99019"
+       y="372.19485"
+       id="text3261"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3263"
+         x="239.99019"
+         y="372.19485">Entrance</tspan><tspan
+         sodipodi:role="line"
+         x="239.99019"
+         y="377.19485"
+         id="tspan3265">here-ish</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
