@@ -28,10 +28,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="76.909339"
-     inkscape:cy="73.734836"
-     inkscape:current-layer="layer4"
+     inkscape:zoom="22.627417"
+     inkscape:cx="166.07264"
+     inkscape:cy="72.090015"
+     inkscape:current-layer="layer5"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1693,5 +1693,40 @@
          id="tspan4069"
          x="86.267029"
          y="75.035721">~20m</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="CableProtection">
+    <path
+       style="fill:#000000;stroke:#800000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.104931,76.361548 72.051319,0"
+       id="path3256"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.6875,76.467529 0,-22.40625"
+       id="path3258"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.9375,53.873779 26.90498,0"
+       id="path3260"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:0.90389484px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 142.74671,54.025126 9.98443,0"
+       id="path3262"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 179.875,54.155029 0,22.15625"
+       id="path3264"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 158.5,76.186279 70.875,0"
+       id="path3266"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
