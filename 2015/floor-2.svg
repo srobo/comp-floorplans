@@ -28,10 +28,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="228.34992"
-     inkscape:cy="67.078453"
-     inkscape:current-layer="layer4"
+     inkscape:zoom="11.313709"
+     inkscape:cx="70.638148"
+     inkscape:cy="96.317825"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -386,6 +386,31 @@
          x="149.76801"
          y="76.771004" />
     </g>
+    <rect
+       y="358.18057"
+       x="188.0941"
+       height="3.5433071"
+       width="7.0866141"
+       id="rect5678-8-4"
+       style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+    <rect
+       y="358.16583"
+       x="179.93053"
+       height="3.5433071"
+       width="7.0866141"
+       id="rect5678-4-1"
+       style="fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="183.30562"
+       y="363.81985"
+       id="text3351"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3353"
+         x="183.30562"
+         y="363.81985">Charging</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2127,5 +2152,41 @@
          id="tspan4328-70-3-8-1"
          x="179.31372"
          y="57.793121">2</tspan></text>
+    <rect
+       style="fill:none;stroke:#e9afaf;stroke-width:0.21664762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect3538-53-6-1-3-1"
+       width="3.3266594"
+       height="3.3266594"
+       x="90.21167"
+       y="29.960449" />
+    <text
+       xml:space="preserve"
+       style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="90.617661"
+       y="32.293121"
+       id="text4326-84-7-6-5-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4328-70-3-8-7-1"
+         x="90.617661"
+         y="32.293121">10</tspan></text>
+    <rect
+       style="fill:none;stroke:#e9afaf;stroke-width:0.21664762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect3538-53-6-1-3-1-0"
+       width="3.3266594"
+       height="3.3266594"
+       x="98.392281"
+       y="29.962666" />
+    <text
+       xml:space="preserve"
+       style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="98.798271"
+       y="32.295334"
+       id="text4326-84-7-6-5-7-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4328-70-3-8-7-1-2"
+         x="98.798271"
+         y="32.295334">10</tspan></text>
   </g>
 </svg>
