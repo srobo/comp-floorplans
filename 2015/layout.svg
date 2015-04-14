@@ -1118,16 +1118,16 @@
          style="display:inline;fill:#ffb7b7;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:22.69713783px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         x="569.97131"
-         y="264.7818"
+         style="font-size:22.69713783px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         x="565.78436"
+         y="264.78387"
          id="text5953"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan5955"
-           x="569.97131"
-           y="264.7818"
-           style="font-size:8.51142597px">Arena</tspan></text>
+           x="565.78436"
+           y="264.78387"
+           style="font-size:8.51142597px">Arena B</tspan></text>
     </g>
     <g
        id="g6674"
@@ -1142,15 +1142,15 @@
       <text
          sodipodi:linespacing="125%"
          id="text5945"
-         y="264.83377"
-         x="444.13809"
-         style="font-style:normal;font-weight:normal;font-size:22.69713783px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         y="264.78387"
+         x="439.86591"
+         style="font-size:22.69713783px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-size:8.51142597px"
-           y="264.83377"
-           x="444.13809"
+           y="264.78387"
+           x="439.86591"
            id="tspan5947"
-           sodipodi:role="line">Arena</tspan></text>
+           sodipodi:role="line">Arena A</tspan></text>
     </g>
     <rect
        y="323.2085"
