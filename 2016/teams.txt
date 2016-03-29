@@ -22,6 +22,9 @@ CLF
 PSC
 DUL
 MCS
+
+# Second Floor
+
 HRS
 TTN
 WGS
@@ -32,9 +35,6 @@ KHS
 RGS
 UPP
 BWS
-
-# Second Floor
-
 LFG
 QMC
 CLY2
