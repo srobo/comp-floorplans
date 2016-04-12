@@ -78,10 +78,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.7515496"
-     inkscape:cx="95.973991"
-     inkscape:cy="98.593973"
-     inkscape:current-layer="layer5"
+     inkscape:zoom="15.503099"
+     inkscape:cx="74.889855"
+     inkscape:cy="125.41846"
+     inkscape:current-layer="g3864"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1058"
@@ -3198,7 +3198,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="CableProtection"
-     style="display:inline">
+     style="display:none">
     <path
        style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 47.764646,44.890341 0,37.831147"
@@ -3353,6 +3353,147 @@
            y="124.97111"
            style="fill:#ac0605;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3660-3-2-8-3-1-7">Cable_I</flowPara></flowRoot>  </g>
+  <g
+     style="display:inline"
+     inkscape:label="CableProtection_reduced"
+     id="g3864"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3866"
+       d="m 47.562803,44.539996 0,13.41821"
+       style="fill:#000000;stroke:#aa0000;stroke-width:0.87481982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3870"
+       d="m 55.275049,61.541022 13.495924,0"
+       style="fill:#000000;stroke:#aa0000;stroke-width:0.82925314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3872"
+       d="m 70.386906,44.869565 9.840726,0"
+       style="fill:#000000;stroke:#aa0000;stroke-width:0.90029043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3874"
+       d="m 156.19458,44.398671 0,9.030453"
+       style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3876"
+       d="m 252.77436,141.2377 -46.24922,0"
+       style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3878"
+       d="m 234.01773,55.436625 0,23.092157"
+       style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3880"
+       d="m 225.72722,45.044789 -8.9853,0"
+       style="fill:#000000;stroke:#aa0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3882"
+       d="m 177.66032,45.149416 -11.7193,0"
+       style="fill:#000000;stroke:#aa0000;stroke-width:1.08142304px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+    <flowRoot
+       transform="translate(-4.1282068,12.642633)"
+       style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ac0605;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3884"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3886"><rect
+           style="fill:#ac0605;fill-opacity:1"
+           y="124.97111"
+           x="217.89192"
+           height="3.2251616"
+           width="8.2564135"
+           id="rect3888" /></flowRegion><flowPara
+         id="flowPara3890">Cable_A</flowPara></flowRoot>    <flowRoot
+       transform="translate(6.3634131,-61.842237)"
+       style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ac0605;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       id="flowRoot3892"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3894"><rect
+           style="fill:#ac0605;fill-opacity:1"
+           y="124.97111"
+           x="217.89192"
+           height="3.2251616"
+           width="8.2564135"
+           id="rect3896" /></flowRegion><flowPara
+         id="flowPara3898">Cable_B</flowPara></flowRoot>    <flowRoot
+       transform="translate(-1.1874214,-79.516122)"
+       style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ac0605;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       id="flowRoot3900"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3902"><rect
+           style="fill:#ac0605;fill-opacity:1"
+           y="124.97111"
+           x="217.89192"
+           height="3.2251616"
+           width="8.2564135"
+           id="rect3904" /></flowRegion><flowPara
+         id="flowPara3906">Cable_C</flowPara></flowRoot>    <flowRoot
+       transform="translate(-50.209877,-78.742083)"
+       style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ac0605;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       id="flowRoot3908"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3910"><rect
+           style="fill:#ac0605;fill-opacity:1"
+           y="124.97111"
+           x="217.89192"
+           height="3.2251616"
+           width="8.2564135"
+           id="rect3912" /></flowRegion><flowPara
+         id="flowPara3914">Cable_D</flowPara></flowRoot>    <flowRoot
+       transform="translate(-70.721906,-77.581026)"
+       style="font-size:2px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ac0605;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       id="flowRoot3916"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3918"><rect
+           style="fill:#ac0605;fill-opacity:1"
+           y="124.97111"
+           x="217.89192"
+           height="3.2251616"
+           width="8.2564135"
+           id="rect3920" /></flowRegion><flowPara
+         id="flowPara3922">Cable_E</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path3872-5"
+       d="m 81.578471,44.858096 9.840726,0"
+       style="fill:#000000;stroke:#aa0000;stroke-width:0.90029043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3872-2"
+       d="m 93.060046,44.793594 9.840724,0"
+       style="fill:#000000;stroke:#aa0000;stroke-width:0.90029043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3872-0"
+       d="m 104.92864,44.793593 9.84072,0"
+       style="fill:#000000;stroke:#aa0000;stroke-width:0.90029043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3870-3"
+       d="m 55.433153,82.8505 13.495924,0"
+       style="fill:#000000;stroke:#aa0000;stroke-width:0.82925314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3866-5"
+       d="m 47.538882,65.498361 0,13.41821"
+       style="fill:#000000;stroke:#aa0000;stroke-width:0.87481982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3870-3-9"
+       d="m 84.846627,61.628937 13.495925,0"
+       style="fill:#000000;stroke:#aa0000;stroke-width:0.82925314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3870-7"
+       d="m 84.975633,82.785997 13.495925,0"
+       style="fill:#000000;stroke:#aa0000;stroke-width:0.82925314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
