@@ -14,6 +14,8 @@ def get_args():
                         help="List of teams to map onto pits")
     parser.add_argument("--show-layers", nargs="+", default=["Layout"],
                         help="Show only these layers")
+    parser.add_argument("--output", default="-",
+                        help="Output file. Use - for stdout")
     return parser.parse_args()
 
 def get_teams(file_name):
@@ -26,25 +28,30 @@ def get_teams(file_name):
                 teams.append(val)
         return teams
 
-args = get_args()
-source_name = args.svg
-target_name = source_name + '-with-teams.svg'
+class SVGMunger(object):
+    def __init__(self, teams, layers):
+        self.teams = teams
+        self.layers = layers
 
-with open(source_name, 'r') as src:
-    template = src.read()
+    def munge(self, src, dst):
+        template = src.read()
+        replaced = re.sub(r'@T_(\d+)', lambda x: self.get_team(x), template)
+        dst.write(replaced)
 
-teams = get_teams(args.teams)
+    def get_team(self, match):
+        num = int(match.group(1))
+        try:
+            return self.teams[num]
+        except IndexError:
+            print("Failed to get team with index '{0}'.".format(num), file=sys.stderr)
+            return ''
 
-def get_team(match):
-    global teams
-    num = int(match.group(1))
-    try:
-        return teams[num]
-    except IndexError:
-        print("Failed to get team with index '{0}'.".format(num), file=sys.stderr)
-        return ''
+if __name__ == "__main__":
+    args = get_args()
 
-replaced = re.sub(r'@T_(\d+)', get_team, template)
+    munger = SVGMunger(get_teams(args.teams), args.show_layers)
+    with open(args.svg, 'r') as src:
+        dst = sys.stdout if args.output == "-" else open(args.output, 'w')
+        munger.munge(src, dst)
+        dst.close()
 
-with open(target_name, 'w') as tgt:
-    tgt.write(replaced)
