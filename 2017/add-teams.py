@@ -4,6 +4,15 @@ from __future__ import print_function
 
 import re
 import sys
+import argparse
+
+def get_args():
+    parser = argparse.ArgumentParser("Munge an SVG into a useful form",
+                                    formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser.add_argument("svg", help="Input SVG to be munged")
+    parser.add_argument("--teams", default="teams.txt",
+                        help="List of teams to map onto pits")
+    return parser.parse_args()
 
 def get_teams(file_name):
     with open(file_name) as teams_file:
@@ -15,16 +24,14 @@ def get_teams(file_name):
                 teams.append(val)
         return teams
 
-if len(sys.argv) != 2:
-    exit("Usage: add-teams.py SVG_FILE")
-
-source_name = sys.argv[1]
+args = get_args()
+source_name = args.svg
 target_name = source_name + '-with-teams.svg'
 
 with open(source_name, 'r') as src:
     template = src.read()
 
-teams = get_teams('teams.txt')
+teams = get_teams(args.teams)
 
 def get_team(match):
     global teams
