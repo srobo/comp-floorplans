@@ -9,7 +9,8 @@ import lxml.etree as ET
 
 def get_args():
     parser = argparse.ArgumentParser("Munge an SVG into a useful form",
-                                    formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+                                    formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+                                    fromfile_prefix_chars='@')
     parser.add_argument("svg", help="Input SVG to be munged")
     parser.add_argument("--teams", default="teams.txt",
                         help="List of teams to map onto pits")
