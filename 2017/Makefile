@@ -1,7 +1,7 @@
 BUILD_DIR=build
 MUNGER=./munge-svg.py
 
-PDFS=floor-0.pdf floor-2.pdf venue-map.pdf shepherding-layout.pdf
+PDFS=floor-0-all.pdf floor-2-all.pdf venue-map.pdf shepherding-layout.pdf
 BUILD_PDFS=$(patsubst %,$(BUILD_DIR)/%,$(PDFS))
 
 SHELL=/bin/bash
@@ -11,14 +11,17 @@ all: $(BUILD_PDFS)
 $(BUILD_DIR):
 	mkdir build
 
-$(BUILD_DIR)/%.pdf: %.svg teams.txt Makefile | $(BUILD_DIR)
-	inkscape -A $(shell pwd)/$@ <($(MUNGER) $<)
+$(BUILD_DIR)/floor-0-all.pdf: floor-0.svg teams.txt Makefile $(MUNGER) | $(BUILD_DIR)
+	inkscape -A $@ <($(MUNGER) --show-layers ALL -- $<)
 
-venue-map.svg: layout.svg Makefile
-	sed '/inkscape:label="Shepherding"/!b; N; s/display:inline/display:none/' $< > $@
+$(BUILD_DIR)/floor-2-all.pdf: floor-2.svg teams.txt Makefile $(MUNGER) | $(BUILD_DIR)
+	inkscape -A $@ <($(MUNGER) --show-layers ALL -- $<)
 
-shepherding-layout.svg: layout.svg Makefile
-	sed '/inkscape:label="Shepherding"/!b; N; s/display:none/display:inline/' $< > $@
+$(BUILD_DIR)/venue-map.pdf: layout.svg Makefile $(MUNGER) | $(BUILD_DIR)
+	inkscape -A $@ <($(MUNGER) --show-layers Layout -- $<)
+
+$(BUILD_DIR)/shepherding-layout.pdf: layout.svg Makefile $(MUNGER) | $(BUILD_DIR)
+	inkscape -A $@ <($(MUNGER) --show-layers Layout Shepherding -- $<)
 
 .PHONY: clean
 
