@@ -1,6 +1,14 @@
-all: floor-0.pdf floor-2.pdf plain-layout.pdf shepherding-layout.pdf
+BUILD_DIR=build
 
-%.pdf: %.svg teams.txt Makefile
+PDFS=floor-0.pdf floor-2.pdf plain-layout.pdf shepherding-layout.pdf
+BUILD_PDFS=$(patsubst %,$(BUILD_DIR)/%,$(PDFS))
+
+all: $(BUILD_PDFS)
+
+$(BUILD_DIR):
+	mkdir build
+
+$(BUILD_DIR)/%.pdf: %.svg teams.txt Makefile | $(BUILD_DIR)
 	python add-teams.py $(shell pwd)/$<
 	inkscape -A $(shell pwd)/$@ $(shell pwd)/$<-with-teams.svg
 
@@ -13,4 +21,4 @@ shepherding-layout.svg: layout.svg Makefile
 .PHONY: clean
 
 clean:
-	-rm -f *.pdf plain-layout.svg shepherding-layout.svg *-with-teams.svg
+	-rm -rf *.pdf plain-layout.svg shepherding-layout.svg *-with-teams.svg build
