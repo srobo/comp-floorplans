@@ -12,6 +12,8 @@ def get_args():
     parser.add_argument("svg", help="Input SVG to be munged")
     parser.add_argument("--teams", default="teams.txt",
                         help="List of teams to map onto pits")
+    parser.add_argument("--show-layers", nargs="+", default=["Layout"],
+                        help="Show only these layers")
     return parser.parse_args()
 
 def get_teams(file_name):
