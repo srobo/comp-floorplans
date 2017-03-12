@@ -9,7 +9,7 @@ $(BUILD_DIR):
 	mkdir build
 
 $(BUILD_DIR)/%.pdf: %.svg teams.txt Makefile | $(BUILD_DIR)
-	python add-teams.py $(shell pwd)/$<
+	python munge-svg.py $(shell pwd)/$<
 	inkscape -A $(shell pwd)/$@ $(shell pwd)/$<-with-teams.svg
 
 venue-map.svg: layout.svg Makefile
