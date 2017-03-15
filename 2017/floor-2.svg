@@ -120,10 +120,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3097406"
-     inkscape:cx="487.85913"
-     inkscape:cy="453.84895"
-     inkscape:current-layer="layer2"
+     inkscape:zoom="1.6166477"
+     inkscape:cx="494.45638"
+     inkscape:cy="529.57629"
+     inkscape:current-layer="layer10"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -965,76 +965,53 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="ChargingDesks"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,601.22071)">
     <rect
-       y="-479.2384"
-       x="370.64575"
-       height="14.328949"
-       width="28.657898"
-       id="rect5678-8-4"
-       style="display:inline;fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <rect
-       y="-479.298"
-       x="337.63269"
-       height="14.328949"
-       width="28.657898"
-       id="rect5678-4-1"
-       style="display:inline;fill:#00d2ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4128"
+       width="153.07086"
+       height="8.5039368"
+       x="262.20471"
+       y="-514.76398" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.08789539px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="351.28137"
-       y="-456.43344"
-       id="text3351"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="300.75674"
+       y="-507.78192"
+       id="text4130"
+       sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
-         id="tspan3353"
-         x="351.28137"
-         y="-456.43344">Charging</tspan></text>
+         id="tspan4132"
+         x="300.75674"
+         y="-507.78192"
+         style="font-size:7.5px">BATTERY CHARGING</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="HelpDesk"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,601.22071)">
     <rect
-       y="-414.59857"
-       x="442.73431"
-       height="28.657898"
-       width="28.657898"
-       id="rect5566"
-       style="display:inline;fill:#00f6bc;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4122"
+       width="76.535431"
+       height="8.5039368"
+       x="350.07874"
+       y="-435.39392" />
     <text
-       sodipodi:linespacing="125%"
-       id="text5568"
-       y="-395.85938"
-       x="447.59116"
-       style="font-style:normal;font-weight:normal;font-size:12.13184261px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="-395.85938"
-         x="447.59116"
-         id="tspan5570"
-         sodipodi:role="line">HD</tspan></text>
-    <rect
-       style="display:inline;fill:#00f6bc;fill-opacity:1;stroke:none"
-       id="rect5632"
-       width="28.657898"
-       height="28.657898"
-       x="474.19806"
-       y="-414.59857" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text5634"
-       y="-395.85938"
-       x="475.73761"
-       style="font-style:normal;font-weight:normal;font-size:12.13184261px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="-395.85938"
-         x="475.73761"
-         id="tspan5636"
-         sodipodi:role="line">BCS</tspan></text>
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="368.25793"
+       y="-428.41187"
+       id="text4124"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan4126"
+         x="368.25793"
+         y="-428.41187"
+         style="font-size:7.5px">HELPDESK</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
