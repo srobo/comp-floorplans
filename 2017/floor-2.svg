@@ -120,10 +120,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6166477"
-     inkscape:cx="494.45638"
-     inkscape:cy="529.57629"
-     inkscape:current-layer="layer10"
+     inkscape:zoom="1.1431425"
+     inkscape:cx="343.50497"
+     inkscape:cy="144.03807"
+     inkscape:current-layer="layer11"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -928,38 +928,56 @@
         </g>
       </g>
     </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.88582677, 0.88582677;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 63.779526,50.74779 28.346402,0"
+       id="path16165-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="98.651093"
+       y="54.475834"
+       id="text16167-5"
+       sodipodi:linespacing="120%"><tspan
+         id="tspan16171-0"
+         sodipodi:role="line"
+         x="98.651093"
+         y="54.475834"
+         style="font-size:10px">Pit Boundary (masking tape)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Displays"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,601.22071)">
     <rect
-       style="display:inline;fill:#ff00ff;fill-opacity:1;stroke:none"
-       id="rect4310-7"
-       width="9.9356012"
-       height="8.6936493"
-       x="510.71268"
-       y="-385.10828" />
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect16194"
+       width="7.0866141"
+       height="7.0866141"
+       x="510.23621"
+       y="-422.63803" />
     <rect
-       style="display:inline;fill:#ff00ff;fill-opacity:1;stroke:none"
-       id="rect4310"
-       width="23.60924"
-       height="20.658077"
-       x="51.337223"
-       y="-79.230133" />
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect23417"
+       width="7.0866141"
+       height="7.0866141"
+       x="74.409447"
+       y="68.464363" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.13184261px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="142.64912"
-       y="-65.554176"
-       id="text4312"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="98.231148"
+       y="74.766426"
+       id="text16167-5-2"
+       sodipodi:linespacing="120%"><tspan
+         id="tspan16171-0-4"
          sodipodi:role="line"
-         id="tspan4314"
-         x="142.64912"
-         y="-65.554176">Pi-based display</tspan></text>
+         x="98.231148"
+         y="74.766426"
+         style="font-size:10px">Display</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2463,5 +2481,17 @@
          id="tspan29871"
          x="854.2796"
          y="694.50641">Version: {ver}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.17308"
+       y="587.48114"
+       id="text23360"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan23362"
+         x="62.17308"
+         y="587.48114"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Sans;-inkscape-font-specification:'Sans Bold'">KEY</tspan></text>
   </g>
 </svg>
