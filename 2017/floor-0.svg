@@ -21,13 +21,28 @@
   <defs
      id="defs3">
     <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker27915"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path27917"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker25007"
        refX="0.0"
        refY="0.0"
        orient="auto"
-       inkscape:stockid="Arrow1Lend">
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
       <path
          transform="scale(0.8) rotate(180) translate(12.5,0)"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
@@ -413,8 +428,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1431425"
-     inkscape:cx="257.87196"
-     inkscape:cy="107.82614"
+     inkscape:cx="595.00952"
+     inkscape:cy="473.14766"
      inkscape:current-layer="layer6"
      showgrid="true"
      inkscape:window-width="1600"
@@ -1060,6 +1075,33 @@
          x="86.412506"
          y="1193.1877"
          id="tspan22484">(WITH RAMP)</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.77165353;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect27886"
+       width="28.346457"
+       height="10.629921"
+       x="648.8147"
+       y="-160.82198" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="ArrivalDesk">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect27889"
+       width="17.007874"
+       height="8.5039368"
+       x="469.13385"
+       y="143.14961" />
+    <rect
+       y="460.62991"
+       x="-151.65355"
+       height="8.5039368"
+       width="17.007874"
+       id="rect27891"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0,-1,1,0,0,0)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4510,6 +4552,12 @@
          x="289.85287"
          y="137.47533"
          style="font-size:10px">32A 1-phase</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path27913"
+       d="m 170.07874,-467.64567 c 36.85039,12.75591 51.02362,60.94488 106.29921,70.86614 18.68751,3.35417 63.39462,8.34336 90.70866,2.83465 14.72121,-2.96899 17.14541,-9.41891 24.09448,-19.84252"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker27915)"
+       sodipodi:nodetypes="cssc" />
   </g>
   <g
      inkscape:groupmode="layer"
