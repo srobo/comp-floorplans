@@ -6,6 +6,7 @@ import re
 import sys
 import argparse
 import lxml.etree as ET
+import subprocess as sp
 
 def get_args():
     parser = argparse.ArgumentParser("Munge an SVG into a useful form",
@@ -35,8 +36,12 @@ class SVGMunger(object):
         self.teams = teams
         self.layers = layers
 
+    def _version(self):
+        return sp.check_output(["git", "rev-parse", "--short", "HEAD"])
+
     def munge(self, src, dst):
         template = self.select_layers(src.read())
+        template = template.replace("{ver}", self._version())
         replaced = re.sub(r'@T_(\d+)', lambda x: self.get_team(x), template)
         dst.write(replaced)
 

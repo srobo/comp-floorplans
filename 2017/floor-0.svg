@@ -427,10 +427,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.80832384"
-     inkscape:cx="558.1094"
-     inkscape:cy="291.21934"
-     inkscape:current-layer="layer6"
+     inkscape:zoom="2.2862851"
+     inkscape:cx="856.94238"
+     inkscape:cy="62.334652"
+     inkscape:current-layer="layer10"
      showgrid="true"
      inkscape:window-width="1600"
      inkscape:window-height="836"
@@ -469,7 +469,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -478,7 +478,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-188.18479,284.83772)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#0000ff;fill-opacity:0"
        id="rect3919"
@@ -3512,7 +3513,7 @@
            style="fill:#ac0605;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3660-3-2-8-3-1-7">Cable_I</flowPara></flowRoot>  </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="CableProtection_reduced"
      id="g3864"
      inkscape:groupmode="layer"
@@ -4545,7 +4546,8 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="DrawingNotes"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4570,5 +4572,17 @@
          x="62.173038"
          y="587.48114"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Sans;-inkscape-font-specification:'Sans Bold'">KEY</tspan></text>
+    <text
+       transform="translate(0,552.68505)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="857.38263"
+       y="166.79224"
+       id="text29869"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan29871"
+         x="857.38263"
+         y="166.79224">Version: {ver}</tspan></text>
   </g>
 </svg>
