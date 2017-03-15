@@ -418,6 +418,38 @@
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker16428-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path16430-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker16428-3-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path16430-8-7" />
+    </marker>
   </defs>
   <sodipodi:namedview
      inkscape:document-units="mm"
@@ -427,10 +459,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2332954"
-     inkscape:cx="563.91539"
-     inkscape:cy="75.716801"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="1.1431426"
+     inkscape:cx="490.17659"
+     inkscape:cy="442.21337"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1600"
      inkscape:window-height="836"
@@ -1087,7 +1119,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer18"
-     inkscape:label="ArrivalDesk">
+     inkscape:label="ArrivalDesk"
+     style="display:inline">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect27889"
@@ -1187,7 +1220,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="CrowdBarriers"
-     style="display:inline">
+     style="display:none">
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.99370098, 1.99842525, 0.99921262, 1.99842525;stroke-dashoffset:0;stroke-opacity:1"
        d="m 907.08652,318.89763 -56.6929,0 0,-113.38583 -297.6378,0 0,155.90551 127.5591,0"
@@ -1258,7 +1291,7 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="StagingLayout"
-     style="display:inline">
+     style="display:none">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16219"
@@ -1317,7 +1350,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="ScoringLayout"
-     style="display:inline">
+     style="display:none">
     <g
        id="g16289"
        transform="matrix(0.79301137,-0.60920684,0.60920684,0.79301137,-28.900838,645.15059)">
@@ -1346,7 +1379,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Displays"
-     style="display:inline">
+     style="display:none">
     <rect
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16188"
@@ -1916,7 +1949,7 @@
      inkscape:groupmode="layer"
      id="layer17"
      inkscape:label="PitLabels"
-     style="display:inline">
+     style="display:none">
     <text
        sodipodi:linespacing="125%"
        id="text5709"
@@ -2244,7 +2277,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="AV"
-     style="display:inline">
+     style="display:none">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16226"
@@ -3658,7 +3691,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="PowerPoints"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,552.68505)">
     <flowRoot
        xml:space="preserve"
@@ -4545,7 +4578,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="VenueNetwork">
+     inkscape:label="VenueNetwork"
+     style="display:inline">
     <g
        style="display:inline"
        id="g23481-5"
@@ -4664,6 +4698,68 @@
          x="552.05768"
          sodipodi:role="line"
          id="tspan27880-8">Venue network point</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker16428-3)"
+       d="m 131.81102,144.56694 c 0,0 9.92126,18.4252 9.92126,46.77166"
+       id="path16420-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="WiFiNotes"
+     style="display:inline">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 278.93437,199.56647 c -23.56126,1.21344 -47.30398,0.71443 -70.96097,0.71443 -19.219,0 -67.67353,-8.16307 -83.50613,3.71139 -39.374559,29.53091 -29.065184,164.07958 1.23713,186.80631 19.86152,14.89614 63.05771,6.18564 85.98039,6.18564 40.99299,0 84.1178,4.70178 124.94992,0.61856 20.55982,-2.05598 50.33455,-21.76714 71.13485,-29.69107 15.96991,-6.08377 35.40437,-9.78831 49.48512,-19.17548 17.62014,-11.74676 9.27846,-62.4018 9.27846,-79.17619 0,-16.31564 5.692,-61.79393 -12.98984,-71.13485 -10.67643,-5.33821 -148.12219,-7.95839 -174.60893,1.14126 z"
+       id="path4419"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="34.226276"
+       y="123.50755"
+       id="text4421"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan4423"
+         x="34.226276"
+         y="123.50755"
+         style="font-size:10px">Approx 130 clients in this</tspan><tspan
+         sodipodi:role="line"
+         x="34.226276"
+         y="135.50755"
+         id="tspan4425"
+         style="font-size:10px">area. Probably 200 max.</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker16428-3-3)"
+       d="m 779.52754,120.47246 c 0,0 7.08661,35.43306 7.08661,63.77952"
+       id="path16420-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="679.10815"
+       y="101.62307"
+       id="text4421-0"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan4423-4"
+         x="679.10815"
+         y="101.62307"
+         style="font-size:10px">Approx 120 clients in this</tspan><tspan
+         sodipodi:role="line"
+         x="679.10815"
+         y="113.62307"
+         id="tspan4425-1"
+         style="font-size:10px">area. Probably 180 max.</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 687.40156,198.42521 c -35.84036,11.04791 -75.23023,-16.75667 -111.79531,-4.56831 -14.1024,4.7008 -30.08649,17.83955 -40.23995,27.99301 -6.63834,6.63835 -20.51372,120.20585 0,135.59114 38.97756,29.23317 79.14037,21.39342 126.84332,25.36866 76.51144,6.37596 172.2592,8.82059 230.94233,-49.86254 22.08488,-22.08489 -7.58537,-101.52654 -25.36866,-116.34595 -23.08444,-19.23703 -155.59483,-39.04706 -180.38173,-18.17601 z"
+       id="path4450"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
