@@ -459,15 +459,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1431426"
-     inkscape:cx="856.03785"
-     inkscape:cy="415.88847"
-     inkscape:current-layer="layer16"
+     inkscape:zoom="3.2332955"
+     inkscape:cx="681.06894"
+     inkscape:cy="440.36235"
+     inkscape:current-layer="layer11"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -1379,24 +1379,24 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Displays"
-     style="display:none">
+     style="display:inline">
     <rect
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16188"
        width="7.0866141"
        height="7.0866141"
-       x="687.40143"
-       y="219.68506" />
+       x="680.31494"
+       y="226.77167" />
     <rect
-       y="219.68506"
-       x="566.92902"
+       y="226.77167"
+       x="574.01575"
        height="7.0866141"
        width="7.0866141"
        id="rect16190"
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       y="340.15747"
-       x="687.40143"
+       y="333.07089"
+       x="680.31494"
        height="7.0866141"
        width="7.0866141"
        id="rect16192"
@@ -1406,11 +1406,11 @@
        id="rect16194"
        width="7.0866141"
        height="7.0866141"
-       x="566.92902"
-       y="340.15747" />
+       x="574.01575"
+       y="333.07089" />
     <rect
-       y="219.68506"
-       x="829.13373"
+       y="226.77167"
+       x="822.04724"
        height="7.0866141"
        width="7.0866141"
        id="rect16196"
@@ -1420,18 +1420,18 @@
        id="rect16198"
        width="7.0866141"
        height="7.0866141"
-       x="708.66132"
-       y="219.68506" />
+       x="715.74799"
+       y="226.77167" />
     <rect
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16200"
        width="7.0866141"
        height="7.0866141"
-       x="829.13373"
-       y="340.15747" />
+       x="822.04724"
+       y="333.07089" />
     <rect
-       y="340.15747"
-       x="708.66132"
+       y="333.07089"
+       x="715.74799"
        height="7.0866141"
        width="7.0866141"
        id="rect16202"
