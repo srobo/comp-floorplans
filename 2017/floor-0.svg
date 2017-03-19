@@ -757,10 +757,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2862852"
-     inkscape:cx="748.33651"
-     inkscape:cy="546.06621"
-     inkscape:current-layer="layer19"
+     inkscape:zoom="1.6166478"
+     inkscape:cx="791.6627"
+     inkscape:cy="68.495121"
+     inkscape:current-layer="layer10"
      showgrid="true"
      inkscape:window-width="1600"
      inkscape:window-height="836"
@@ -1418,7 +1418,7 @@
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="ArrivalDesk"
-     style="display:none">
+     style="display:inline">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect27889"
@@ -1499,18 +1499,18 @@
     <path
        inkscape:connector-curvature="0"
        id="path16165"
-       d="m 63.779526,78.023612 28.3464,0"
+       d="m 63.779568,56.76378 28.3464,0"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.6574803, 2.6574803;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        sodipodi:linespacing="120%"
        id="text16167"
-       y="81.751663"
-       x="98.651093"
+       y="60.491833"
+       x="98.651138"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:10px"
-         y="81.751663"
-         x="98.651093"
+         y="60.491833"
+         x="98.651138"
          sodipodi:role="line"
          id="tspan16171">Carpet Boundary</tspan></text>
   </g>
@@ -1747,7 +1747,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="CrowdBarriers"
-     style="display:none">
+     style="display:inline">
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.99370098, 1.99842525, 0.99921262, 1.99842525;stroke-dashoffset:0;stroke-opacity:1"
        d="m 907.08652,318.89763 -56.6929,0 0,-113.38583 -297.6378,0 0,155.90551 127.5591,0"
@@ -1798,27 +1798,27 @@
        sodipodi:nodetypes="ccc" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.08661413, 1.77165353, 0.88582677, 1.77165353;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 63.779526,609.44882 28.3464,0"
+       d="m 63.779568,588.18899 28.3464,0"
        id="path16159"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="98.651031"
-       y="613.17682"
+       x="98.651077"
+       y="591.91699"
        id="text16161"
        sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
          id="tspan16163"
-         x="98.651031"
-         y="613.17682"
+         x="98.651077"
+         y="591.91699"
          style="font-size:10px">Crowd Barrier</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="StagingLayout"
-     style="display:none">
+     style="display:inline">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16219"
@@ -1877,7 +1877,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="ScoringLayout"
-     style="display:none">
+     style="display:inline">
     <g
        id="g16289"
        transform="matrix(0.79301137,-0.60920684,0.60920684,0.79301137,-28.900838,645.15059)">
@@ -1906,7 +1906,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Displays"
-     style="display:none">
+     style="display:inline">
     <rect
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16188"
@@ -1989,26 +1989,26 @@
        id="rect23417"
        width="7.0866141"
        height="7.0866141"
-       x="74.409401"
-       y="669.68506" />
+       x="74.409447"
+       y="648.42523" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="98.23111"
-       y="675.98712"
+       x="98.231155"
+       y="654.72729"
        id="text16167-5-2"
        sodipodi:linespacing="120%"><tspan
          id="tspan16171-0-4"
          sodipodi:role="line"
-         x="98.23111"
-         y="675.98712"
+         x="98.231155"
+         y="654.72729"
          style="font-size:10px">Display</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="PitLayout"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,552.68505)">
     <g
        transform="translate(-318.89763,49.163387)"
@@ -2456,27 +2456,27 @@
     </g>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.88582677, 0.88582677;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 63.779482,99.283448 28.3464,0"
+       d="m 63.779524,78.023616 28.3464,0"
        id="path16165-9"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="98.651047"
-       y="103.01148"
+       x="98.651093"
+       y="81.751648"
        id="text16167-5"
        sodipodi:linespacing="120%"><tspan
          id="tspan16171-0"
          sodipodi:role="line"
-         x="98.651047"
-         y="103.01148"
+         x="98.651093"
+         y="81.751648"
          style="font-size:10px">Pit Boundary (masking tape)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer17"
      inkscape:label="PitLabels"
-     style="display:none">
+     style="display:inline">
     <text
        sodipodi:linespacing="125%"
        id="text5709"
@@ -2746,7 +2746,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="ReceptionLayout"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,552.68505)">
     <g
        id="g23329"
@@ -2830,7 +2830,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="CableProtection"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,552.68505)">
     <path
        style="fill:#000000;stroke:#aa0000;stroke-width:3.71728635px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2987,7 +2987,7 @@
            style="fill:#ac0605;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3660-3-2-8-3-1-7">Cable_I</flowPara></flowRoot>  </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="CableProtection_reduced"
      id="g3864"
      inkscape:groupmode="layer"
@@ -3132,7 +3132,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="PowerPoints"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,552.68505)">
     <flowRoot
        xml:space="preserve"
@@ -3761,7 +3761,7 @@
     </g>
     <g
        id="g23437"
-       transform="translate(-255.11814,396.85038)">
+       transform="translate(-255.1181,375.59055)">
       <rect
          y="-347.17322"
          x="517.32281"
@@ -3785,17 +3785,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="290.26303"
-       y="59.522552"
+       x="290.26306"
+       y="38.262722"
        id="text16167-5-2-6"
        sodipodi:linespacing="120%"><tspan
          id="tspan16171-0-4-5"
          sodipodi:role="line"
-         x="290.26303"
-         y="59.522552"
+         x="290.26306"
+         y="38.262722"
          style="font-size:10px">x power points required</tspan></text>
     <g
-       transform="translate(-255.11814,418.11022)"
+       transform="translate(-255.1181,396.85039)"
        id="g23463">
       <rect
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3820,13 +3820,13 @@
     <text
        sodipodi:linespacing="120%"
        id="text23471"
-       y="80.782394"
-       x="289.64291"
+       y="59.522564"
+       x="289.64294"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:10px"
-         y="80.782394"
-         x="289.64291"
+         y="59.522564"
+         x="289.64294"
          sodipodi:role="line"
          id="tspan23473">between x and y power points required</tspan></text>
     <g
@@ -3943,7 +3943,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g27862"
-       transform="translate(-574.01578,538.58265)">
+       transform="translate(-574.01574,517.32282)">
       <ellipse
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="ellipse27864"
@@ -3964,7 +3964,7 @@
            y="-427.66241">63</tspan></text>
     </g>
     <g
-       transform="translate(-574.01578,566.92911)"
+       transform="translate(-574.01574,545.66928)"
        id="g27870">
       <ellipse
          ry="9.921279"
@@ -3988,26 +3988,26 @@
     <text
        sodipodi:linespacing="120%"
        id="text27878"
-       y="109.12885"
-       x="290.26303"
+       y="87.869019"
+       x="290.26306"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:10px"
-         y="109.12885"
-         x="290.26303"
+         y="87.869019"
+         x="290.26306"
          sodipodi:role="line"
          id="tspan27880">63A 3-phase</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="289.85287"
-       y="137.47533"
+       x="289.85291"
+       y="116.21549"
        id="text27882"
        sodipodi:linespacing="120%"><tspan
          id="tspan27884"
          sodipodi:role="line"
-         x="289.85287"
-         y="137.47533"
+         x="289.85291"
+         y="116.21549"
          style="font-size:10px">32A 1-phase</tspan></text>
     <path
        inkscape:connector-curvature="0"
@@ -4020,11 +4020,11 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="ArenaNetwork"
-     style="display:none">
+     style="display:inline">
     <g
        style="display:inline"
        id="g4188-8"
-       transform="translate(-310.39373,1065.0472)">
+       transform="translate(-310.39369,1043.7874)">
       <rect
          style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4245-5"
@@ -4124,17 +4124,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="552.67786"
-       y="633.46747"
+       x="552.67792"
+       y="612.20764"
        id="text4270-7"
        sodipodi:linespacing="120%"><tspan
          id="tspan4272-8"
          sodipodi:role="line"
-         x="552.67786"
-         y="633.46747"
+         x="552.67792"
+         y="612.20764"
          style="font-size:10px">Arena network 8-port switch</tspan></text>
     <g
-       transform="translate(-310.39374,1043.7874)"
+       transform="translate(-310.3937,1022.5276)"
        id="g5055"
        style="display:inline">
       <rect
@@ -4220,13 +4220,13 @@
     <text
        sodipodi:linespacing="120%"
        id="text5075"
-       y="612.20758"
-       x="552.67786"
+       y="590.94775"
+       x="552.67792"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:10px"
-         y="612.20758"
-         x="552.67786"
+         y="590.94775"
+         x="552.67792"
          sodipodi:role="line"
          id="tspan5077">Arena network router</tspan></text>
     <use
@@ -4234,7 +4234,7 @@
        y="0"
        xlink:href="#g4188-8"
        id="use5224"
-       transform="translate(347.24409,-255.11811)"
+       transform="translate(347.24405,-233.85828)"
        width="100%"
        height="100%" />
     <use
@@ -4242,7 +4242,7 @@
        y="0"
        xlink:href="#g4188-8"
        id="use5226"
-       transform="translate(304.72441,-396.85039)"
+       transform="translate(304.72437,-375.59056)"
        width="100%"
        height="100%" />
     <use
@@ -4250,7 +4250,7 @@
        y="0"
        xlink:href="#g4188-8"
        id="use5228"
-       transform="translate(304.72441,-297.63779)"
+       transform="translate(304.72437,-276.37796)"
        width="100%"
        height="100%" />
     <use
@@ -4258,7 +4258,7 @@
        y="0"
        xlink:href="#g4188-8"
        id="use5230"
-       transform="translate(141.73229,-283.46456)"
+       transform="translate(141.73225,-262.20473)"
        width="100%"
        height="100%" />
     <use
@@ -4266,7 +4266,7 @@
        y="0"
        xlink:href="#g4188-8"
        id="use5232"
-       transform="translate(177.16535,-226.77165)"
+       transform="translate(177.16531,-205.51182)"
        width="100%"
        height="100%" />
     <use
@@ -4274,7 +4274,7 @@
        y="0"
        xlink:href="#g4188-8"
        id="use5234"
-       transform="translate(375.59055,-411.02362)"
+       transform="translate(375.59051,-389.76379)"
        width="100%"
        height="100%" />
     <g
@@ -4464,31 +4464,31 @@
     <path
        inkscape:connector-curvature="0"
        id="path16165-2"
-       d="m 729.92124,609.44882 28.3464,0"
+       d="m 729.92128,588.18899 28.3464,0"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        sodipodi:linespacing="120%"
        id="text16167-6"
-       y="613.17688"
-       x="764.79279"
+       y="591.91705"
+       x="764.79285"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:10px"
-         y="613.17688"
-         x="764.79279"
+         y="591.91705"
+         x="764.79285"
          sodipodi:role="line"
          id="tspan16171-3">Network cable with length 'x'</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="742.62476"
-       y="607.98138"
+       x="742.62482"
+       y="586.72156"
        id="text6265"
        sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
          id="tspan6267"
-         x="742.62476"
-         y="607.98138"
+         x="742.62482"
+         y="586.72156"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">x</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4599,31 +4599,31 @@
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#SquareM)"
-       d="m 729.92124,630.70866 28.3464,0"
+       d="m 729.92128,609.44883 28.3464,0"
        id="path6321"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="764.79279"
-       y="634.43677"
+       x="764.79285"
+       y="613.17694"
        id="text6323"
        sodipodi:linespacing="120%"><tspan
          id="tspan6325"
          sodipodi:role="line"
-         x="764.79279"
-         y="634.43677"
+         x="764.79285"
+         y="613.17694"
          style="font-size:10px">Network cable with length 'x' (uncommitted)</tspan></text>
     <text
        sodipodi:linespacing="120%"
        id="text6327"
-       y="629.24121"
-       x="742.62476"
+       y="607.98138"
+       x="742.62482"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-         y="629.24121"
-         x="742.62476"
+         y="607.98138"
+         x="742.62482"
          id="tspan6329"
          sodipodi:role="line">x</tspan></text>
     <path
@@ -5123,7 +5123,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="VenueNetwork"
-     style="display:none">
+     style="display:inline">
     <g
        style="display:inline"
        id="g23481-5"
@@ -5178,7 +5178,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-311.81102,1094.1024)"
+       transform="translate(-311.81098,1072.8426)"
        id="g4201"
        style="display:inline">
       <ellipse
@@ -5233,13 +5233,13 @@
     <text
        sodipodi:linespacing="120%"
        id="text27878-7"
-       y="661.8139"
-       x="552.05768"
+       y="640.55408"
+       x="552.05774"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:10px"
-         y="661.8139"
-         x="552.05768"
+         y="640.55408"
+         x="552.05774"
          sodipodi:role="line"
          id="tspan27880-8">Venue network point</tspan></text>
   </g>
@@ -5247,11 +5247,11 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="NetworkPoints"
-     style="display:none">
+     style="display:inline">
     <g
        style="display:inline"
        id="g4188"
-       transform="translate(-310.39372,1121.7401)">
+       transform="translate(-310.39368,1100.4803)">
       <rect
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4245"
@@ -5308,14 +5308,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="552.6778"
-       y="690.16034"
+       x="552.67786"
+       y="668.90051"
        id="text4270"
        sodipodi:linespacing="120%"><tspan
          id="tspan4272"
          sodipodi:role="line"
-         x="552.6778"
-         y="690.16034"
+         x="552.67786"
+         y="668.90051"
          style="font-size:10px">Wired network point required</tspan></text>
     <g
        style="display:inline"
@@ -5379,7 +5379,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="WiFiNotes"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 278.93437,199.56647 c -23.56126,1.21344 -47.30398,0.71443 -70.96097,0.71443 -19.219,0 -67.67353,-8.16307 -83.50613,3.71139 -39.374559,29.53091 -29.065184,164.07958 1.23713,186.80631 19.86152,14.89614 63.05771,6.18564 85.98039,6.18564 40.99299,0 84.1178,4.70178 124.94992,0.61856 20.55982,-2.05598 50.33455,-21.76714 71.13485,-29.69107 15.96991,-6.08377 35.40437,-9.78831 49.48512,-19.17548 17.62014,-11.74676 9.27846,-62.4018 9.27846,-79.17619 0,-16.31564 5.692,-61.79393 -12.98984,-71.13485 -10.67643,-5.33821 -148.12219,-7.95839 -174.60893,1.14126 z"
@@ -5510,38 +5510,56 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="851.67633"
-       y="693.44409"
+       x="771.28735"
+       y="698.17761"
        id="text4112"
        sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
          id="tspan4114"
-         x="851.67633"
-         y="693.44409"
-         style="font-size:25px">Scale 1:250</tspan></text>
+         x="771.28735"
+         y="698.17761"
+         style="font-size:17.5px">Scale 1:250</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="62.173038"
-       y="587.48114"
+       x="62.17308"
+       y="566.22131"
        id="text23360"
        sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
          id="tspan23362"
-         x="62.173038"
-         y="587.48114"
+         x="62.17308"
+         y="566.22131"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Sans;-inkscape-font-specification:'Sans Bold'">KEY</tspan></text>
     <text
-       transform="translate(0,552.68505)"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="857.38263"
-       y="166.79224"
+       x="772.34326"
+       y="716.64264"
        id="text29869"
        sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
          id="tspan29871"
-         x="857.38263"
-         y="166.79224">Version: {ver}</tspan></text>
+         x="772.34326"
+         y="716.64264">Version: {ver}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="769.31592"
+       y="670.76556"
+       id="text8423"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan8425"
+         x="769.31592"
+         y="670.76556"
+         style="font-size:25px">{title}</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88582677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8445"
+       width="269.29132"
+       height="85.039375"
+       x="765.35431"
+       y="642.04724" />
   </g>
 </svg>

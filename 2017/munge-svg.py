@@ -13,6 +13,8 @@ def get_args():
                                     formatter_class=argparse.ArgumentDefaultsHelpFormatter,
                                     fromfile_prefix_chars='@')
     parser.add_argument("svg", help="Input SVG to be munged")
+    parser.add_argument("--title", default="[untitled]",
+                        help="Drawing title")
     parser.add_argument("--teams", default="teams.txt",
                         help="List of teams to map onto pits")
     parser.add_argument("--show-layers", nargs="+", default=["ALL"],
@@ -32,7 +34,8 @@ def get_teams(file_name):
         return teams
 
 class SVGMunger(object):
-    def __init__(self, teams, layers):
+    def __init__(self, title, teams, layers):
+        self.title = title
         self.teams = teams
         self.layers = layers
 
@@ -42,6 +45,7 @@ class SVGMunger(object):
     def munge(self, src, dst):
         template = self.select_layers(src.read())
         template = template.replace("{ver}", self._version())
+        template = template.replace("{title}", self.title)
         replaced = re.sub(r'@T_(\d+)', lambda x: self.get_team(x), template)
         dst.write(replaced)
 
@@ -66,7 +70,7 @@ class SVGMunger(object):
 if __name__ == "__main__":
     args = get_args()
 
-    munger = SVGMunger(get_teams(args.teams), args.show_layers)
+    munger = SVGMunger(args.title, get_teams(args.teams), args.show_layers)
     with open(args.svg, 'r') as src:
         dst = sys.stdout if args.output == "-" else open(args.output, 'w')
         munger.munge(src, dst)
