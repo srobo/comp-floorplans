@@ -50,7 +50,8 @@ class SVGMunger(object):
         dst.write(replaced)
 
     def select_layers(self, svg):
-        root = ET.fromstring(svg)
+        xmlstring = re.sub('\\sxmlns="[^"]+"', '', svg, count=1)
+        root = ET.fromstring(xmlstring)
         for layer in root.findall(".//svg:g[@inkscape:label]", root.nsmap):
             label_attrib = "{{{0}}}label".format(root.nsmap["inkscape"])
             if "ALL" in self.layers or layer.attrib[label_attrib] in self.layers:
