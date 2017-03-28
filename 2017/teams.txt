@@ -20,7 +20,7 @@ HAM
 GRD
 CLY
 BLE
-CCR
+CHW
 QMC
 
 # Second Floor
@@ -53,5 +53,5 @@ HRS
 TLC
 HAY
 WGS
-CHW
 QEH
+CCR
