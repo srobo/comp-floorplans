@@ -52,7 +52,7 @@ class SVGMunger(object):
     def select_layers(self, svg):
         xmlstring = re.sub('\\sxmlns="[^"]+"', '', svg, count=1)
         root = ET.fromstring(xmlstring)
-        for layer in root.findall(".//svg:g[@inkscape:label]", root.nsmap):
+        for layer in root.findall(".//g[@inkscape:label]", root.nsmap):
             label_attrib = "{{{0}}}label".format(root.nsmap["inkscape"])
             if "ALL" in self.layers or layer.attrib[label_attrib] in self.layers:
                 layer.attrib["style"] = "display:inline"
