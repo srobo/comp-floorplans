@@ -1,6 +1,6 @@
 # Student Robotics Competition Floor Plans
 
-Floor plans for the Student Robotics competition. These are maintained by the Production Manager <production-manager@studentrobotics.org>.
+Floor plans for the Student Robotics competition.
 
 They serve four important purposes:
 
