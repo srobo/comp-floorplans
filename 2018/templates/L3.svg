@@ -432,10 +432,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.01"
-     inkscape:cx="60839.722"
-     inkscape:cy="117466.21"
+     inkscape:cx="113650.78"
+     inkscape:cy="131475.81"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="cm"
      inkscape:window-width="1916"
@@ -476,9 +476,18 @@
     <g
        inkscape:groupmode="layer"
        id="layer3"
-       inkscape:label="Exits">
+       inkscape:label="Exits"
+       sodipodi:insensitive="true">
       <rect
-         style="stroke:none;stroke-width:100;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         style="fill:#fa6464;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1257"
+         width="23200"
+         height="2800"
+         x="35850"
+         y="49250.707"
+         ry="0" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:100;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect957"
          width="2000"
          height="2200"
@@ -505,13 +514,26 @@
          height="2400"
          x="32850"
          y="22850.709" />
+      <rect
+         style="fill:#fa0000;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1253"
+         width="3599.9998"
+         height="2000"
+         x="52050"
+         y="44650.707" />
+      <rect
+         style="fill:#fa0000;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1255"
+         width="2400"
+         height="1000"
+         x="56650"
+         y="49250.707" />
     </g>
     <g
        inkscape:label="VenueFloorplan"
        inkscape:groupmode="layer"
        id="layer1"
-       transform="translate(1850,54553.711)"
-       sodipodi:insensitive="true">
+       transform="translate(1850,54553.711)">
       <rect
          style="fill:#c6c6c6;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect6230"
@@ -1054,6 +1076,49 @@
          id="path5318"
          d="m 26700,-12302.999 v -5200"
          style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5322)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.777771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="21991.119"
+         y="-48298.707"
+         id="text1261"><tspan
+           sodipodi:role="line"
+           id="tspan1259"
+           x="21991.119"
+           y="-48298.707"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.777771px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Mens</tspan><tspan
+           sodipodi:role="line"
+           x="21991.119"
+           y="-47857.734"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.777771px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           id="tspan1263">WC</tspan></text>
+      <text
+         id="text1269"
+         y="-48345.48"
+         x="28417.613"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.777771px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.777771px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-48345.48"
+           x="28417.613"
+           id="tspan1265"
+           sodipodi:role="line">Ladies</tspan><tspan
+           id="tspan1267"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.777771px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-47904.508"
+           x="28417.613"
+           sodipodi:role="line">WC</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:263.7578125px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="13121.607"
+         y="-32941.539"
+         id="text1273"><tspan
+           sodipodi:role="line"
+           id="tspan1271"
+           x="13121.607"
+           y="-32941.539"
+           style="stroke-width:0.26458332">Lift</tspan></text>
     </g>
   </g>
   <g
@@ -1140,7 +1205,7 @@
              height="3779.5276"
              x="25889.764"
              y="48569.609" /></flowRegion><flowPara
-           id="flowPara1509"></flowPara></flowRoot>      <text
+           id="flowPara1509" /></flowRoot>      <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:263.7578125px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7488.4839"
