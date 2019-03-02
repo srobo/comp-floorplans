@@ -3,6 +3,10 @@
 The templates here are intended to be 1:1 scale diagram of all the areas used in SUSU, they are believed to be within 5% accurate.
 Locations highlighted in red on one of the venue related layers require measurements to be taken to assure their size.
 
+#### Requires:
+- > python 3.4
+- PyYaml
+
 ## Layers
 #### Floorplan layers:
 - Notes *(Additional notes)*
@@ -77,6 +81,7 @@ show:
 hide:
   - shepherding
 embed:
+-
   marker: "%%KEY%%"
   image: "key.svg"
   show: 
@@ -96,11 +101,11 @@ embed:
   "hide": [
     "shepherding"
   ],
-  "embed": {
+  "embed": [{
     "marker": "%%KEY%%",
     "image": "key.svg",
     "show":[ "ALL" ],
     "hide": [ "shepherding" ]
-  }
+  }]
 }
 ```
