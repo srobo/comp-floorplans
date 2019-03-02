@@ -1,0 +1,38 @@
+image: "layout.svg"
+title: "Venue Map"
+show: 
+  - ALL
+embed:
+-
+  marker: "%%KEY%%"
+  image: "key.svg"
+  show: 
+    - General
+    - Areas-
+-
+  marker: "%%L2%%"
+  image: "L2.svg"
+  show: 
+    - General
+    - Areas
+    - TLA
+  hide:
+    - General/GeneralLabels
+-
+  marker: "%%L3%%"
+  image: "L3.svg"
+  show: 
+    - General
+    - Areas
+    - TLA
+  hide:
+    - General/GeneralLabels
+-
+  marker: "%%L4%%"
+  image: "L4.svg"
+  show: 
+    - General
+    - Areas
+    - TLA
+  hide:
+    - General/GeneralLabels

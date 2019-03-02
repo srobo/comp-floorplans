@@ -1,0 +1,42 @@
+image: "layout.svg"
+title: "Shepherding"
+show: 
+  - ALL
+embed:
+  marker: "%%KEY%%"
+  image: "key.svg"
+  show: 
+    - General
+    - Areas
+    - Shepherding
+embed:
+-
+  marker: "%%L2%%"
+  image: "L2.svg"
+  show: 
+    - General
+    - Areas
+    - TLA
+    - Shepherding
+  hide:
+    - General/GeneralLabels
+-
+  marker: "%%L3%%"
+  image: "L3.svg"
+  show: 
+    - General
+    - Areas
+    - TLA
+    - Shepherding
+  hide:
+    - General/GeneralLabels
+-
+  marker: "%%L4%%"
+  image: "L4.svg"
+  show: 
+    - General
+    - Areas
+    - TLA
+    - Shepherding
+  hide:
+    - General/GeneralLabels

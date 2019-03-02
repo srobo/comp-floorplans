@@ -1,0 +1,14 @@
+image: "L2.svg"
+title: "Level 2 Layout"
+show: 
+  - ALL
+hide:
+  - Shepherding
+embed:
+-
+  marker: "%%KEY%%"
+  image: "key.svg"
+  show: 
+    - ALL
+  hide:
+    - Shepherding

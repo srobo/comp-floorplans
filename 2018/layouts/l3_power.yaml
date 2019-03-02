@@ -1,0 +1,16 @@
+image: "L3.svg"
+title: "Level 3 Power"
+show: 
+  - General
+  - Power
+  - Dimensions
+  - Areas
+  - Notes
+embed:
+-
+  marker: "%%KEY%%"
+  image: "key.svg"
+  show:
+    - ALL
+  hide:
+    - Shepherding

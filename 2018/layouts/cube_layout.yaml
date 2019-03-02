@@ -1,0 +1,14 @@
+image: "cube.svg"
+title: "Cube Layout"
+show: 
+  - ALL
+hide:
+  - Shepherding
+embed:
+-
+  marker: "%%KEY%%"
+  image: "key.svg"
+  show: 
+    - ALL
+  hide:
+    - Shepherding

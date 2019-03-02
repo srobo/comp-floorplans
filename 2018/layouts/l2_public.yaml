@@ -1,0 +1,13 @@
+image: "L2.svg"
+title: "Level 2"
+show: 
+  - General
+  - Areas
+  - TLA
+embed:
+-
+  marker: "%%KEY%%"
+  image: "key.svg"
+  show:
+    - General
+    - Areas

@@ -1,0 +1,17 @@
+image: "L2.svg"
+title: "Level 2 Power & Network"
+show: 
+  - General
+  - Power
+  - Network
+  - Dimensions
+  - Areas
+  - Notes
+embed:
+-
+  marker: "%%KEY%%"
+  image: "key.svg"
+  show: 
+    - ALL
+  hide:
+    - Shepherding

@@ -1,0 +1,16 @@
+image: "cube.svg"
+title: "Cube Network"
+show: 
+  - General
+  - Network
+  - Dimensions
+  - Areas
+  - Notes
+embed:
+-
+  marker: "%%KEY%%"
+  image: "key.svg"
+  show: 
+    - ALL
+  hide:
+    - Shepherding
