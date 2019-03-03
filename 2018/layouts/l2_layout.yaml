@@ -6,7 +6,7 @@ hide:
   - Shepherding
 embed:
 -
-  marker: "%%KEY%%"
+  marker: "KEY__"
   image: "key.svg"
   show: 
     - ALL

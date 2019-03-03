@@ -57,8 +57,8 @@ root = root_tree.getroot()
 
 
 try: # set title and version
-  root.find('.//svg:text[svg:tspan="{{title}}" ]', ns)[0].text = spec.get('title',spec['image'])
-  root.find('.//svg:text[svg:tspan="{{version}}" ]', ns)[0].text = spec.get('version','0.1')
+  root.find('.//svg:text[svg:tspan="{{title}}"]', ns)[0].text = spec.get('title',spec['image'])
+  root.find('.//svg:text[svg:tspan="{{version}}"]', ns)[0].text = spec.get('version','0.1')
 except (IndexError,AttributeError,TypeError):
   pass
 
@@ -98,15 +98,17 @@ for embedded in spec.get('embed',[]): # add nested svgs (including key)
   printLayers(embedded_root,spec.get('show',['ALL']),spec.get('hide',[]),ns=ns) # display only selected layers or ALL
   
   # add scaled at marker
-  embed_child = root.find('.//svg:rect[@id="{}"]'.format(embedded['marker']), ns) # search for marker in id
-  if not embed_child:
+  embed_parent = root.find('.//svg:rect[@id="{}"]/..'.format(embedded['marker']), ns) # search for marker in id
+  if embed_parent is None:
     print('Failed to insert ' + embedded['image'] + ' at ' + embedded['marker'])
     continue # exit(2)
+  embed_child = embed_parent.find('./svg:rect[@id="{}"]'.format(embedded['marker']), ns)
+  embed_index = list(embed_parent).index(embed_child)
   embedded_root.set('x',embed_child.get('x')) # set x, y, height & width from marker
   embedded_root.set('y',embed_child.get('y'))
   embedded_root.set('width',embed_child.get('width'))
   embedded_root.set('height',embed_child.get('height'))
-  embed_child = embedded_root # replace element with svg
+  embed_parent[embed_index] = embedded_root # replace element with svg
 
 if not os.path.exists('output'):
     os.mkdir('output')

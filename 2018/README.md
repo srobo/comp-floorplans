@@ -4,7 +4,7 @@ The templates here are intended to be 1:1 scale diagram of all the areas used in
 Locations highlighted in red on one of the venue related layers require measurements to be taken to assure their size.
 
 #### Requires:
-- \> python 3.4
+- \> python 3.6
 - PyYaml
 
 ## Layers
@@ -39,39 +39,6 @@ Locations highlighted in red on one of the venue related layers require measurem
 - Shepherding
 
 
-## Generation Script:
-#### Folder structure:
-```
-team_names.txt
-templates/
-  Lv4.svg
-  Lv3.svg
-  Lv2.svg
-  Cube.svg
-  key.svg
-  layout.svg
-layouts/
-  shepherding.json
-output/
-  Shepherding.svg
-```
-
-#### Code structure:
-```
-read in specification
-load svg
-set title and version
-add team names
-display only selected layers or ALL
-add key
-  add at marker (with scale)?
-add other nested svgs
-  add at marker (with scale)?
-  add team names
-  display only selected layers or ALL
-save to output
-```
-
 #### YAML Layer Specification
 ```yaml
 image: "cube.svg"
@@ -82,7 +49,7 @@ hide:
   - shepherding
 embed:
 -
-  marker: "%%KEY%%"
+  marker: "KEY__"
   image: "key.svg"
   show: 
     - ALL
@@ -102,7 +69,7 @@ embed:
     "shepherding"
   ],
   "embed": [{
-    "marker": "%%KEY%%",
+    "marker": "KEY__",
     "image": "key.svg",
     "show":[ "ALL" ],
     "hide": [ "shepherding" ]

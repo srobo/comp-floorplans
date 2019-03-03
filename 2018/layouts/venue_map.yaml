@@ -4,13 +4,13 @@ show:
   - ALL
 embed:
 -
-  marker: "%%KEY%%"
+  marker: "KEY__"
   image: "key.svg"
   show: 
     - General
     - Areas-
 -
-  marker: "%%L2%%"
+  marker: "L2__"
   image: "L2.svg"
   show: 
     - General
@@ -19,7 +19,7 @@ embed:
   hide:
     - General/GeneralLabels
 -
-  marker: "%%L3%%"
+  marker: "L3__"
   image: "L3.svg"
   show: 
     - General
@@ -28,7 +28,7 @@ embed:
   hide:
     - General/GeneralLabels
 -
-  marker: "%%L4%%"
+  marker: "L4__"
   image: "L4.svg"
   show: 
     - General

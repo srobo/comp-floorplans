@@ -14,7 +14,7 @@
    viewBox="0 0 31610.925 35157.718"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="L4.svg">
   <defs
      id="defs2">
@@ -269,18 +269,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.04"
-     inkscape:cx="44542.82"
-     inkscape:cy="50439.784"
+     inkscape:zoom="0.01"
+     inkscape:cx="104637.18"
+     inkscape:cy="38789.785"
      inkscape:document-units="cm"
-     inkscape:current-layer="g1058"
+     inkscape:current-layer="layer18"
      showgrid="true"
      units="cm"
-     inkscape:window-width="958"
-     inkscape:window-height="1055"
-     inkscape:window-x="960"
+     inkscape:window-width="1680"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      fit-margin-top="300"
      fit-margin-left="300"
      fit-margin-bottom="300"
@@ -674,6 +674,19 @@
            x="2370.7502"
            y="-23728.557"
            style="stroke-width:0.43954602">Main Entrance</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer18"
+       inkscape:label="GeneralLabels">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:49.99999619;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="KEY__"
+         width="11799.999"
+         height="6899.9995"
+         x="-16999.998"
+         y="97000"
+         inkscape:label="#rect1057" />
     </g>
   </g>
   <g

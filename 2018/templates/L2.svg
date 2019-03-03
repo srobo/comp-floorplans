@@ -14,7 +14,7 @@
    viewBox="0 0 52300.713 42700.712"
    version="1.1"
    id="svg8291"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="L2.svg">
   <defs
      id="defs8285">
@@ -289,14 +289,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.01"
-     inkscape:cx="85279.428"
-     inkscape:cy="88502.797"
+     inkscape:cx="137835.99"
+     inkscape:cy="52844.261"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer18"
      showgrid="true"
      units="cm"
      inkscape:window-width="1532"
-     inkscape:window-height="1037"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="18"
      inkscape:window-maximized="0"
@@ -819,6 +819,19 @@
            x="-13687.469"
            y="-31021.455"
            style="stroke-width:0.5181967">Lift</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer18"
+       inkscape:label="GeneralLabels">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:50;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="KEY__"
+         width="15340"
+         height="8970"
+         x="29450.711"
+         y="33250.715"
+         inkscape:label="#rect1133" />
     </g>
   </g>
   <g
