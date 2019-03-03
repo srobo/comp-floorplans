@@ -58,7 +58,7 @@ root = root_tree.getroot()
 
 try: # set title and version
   root.find('.//svg:text[svg:tspan="{{title}}"]', ns)[0].text = spec.get('title',spec['image'])
-  root.find('.//svg:text[svg:tspan="{{version}}"]', ns)[0].text = spec.get('version','0.1')
+  root.find('.//svg:text[svg:tspan="{{version}}"]', ns)[0].text = "Version: " + spec.get('version','0.1')
 except (IndexError,AttributeError,TypeError):
   pass
 
@@ -95,7 +95,7 @@ for embedded in spec.get('embed',[]): # add nested svgs (including key)
       if team_no:
         team.text = team_names.get(team_no,'')
   
-  printLayers(embedded_root,spec.get('show',['ALL']),spec.get('hide',[]),ns=ns) # display only selected layers or ALL
+  printLayers(embedded_root,embedded.get('show',['ALL']),embedded.get('hide',[]),ns=ns) # display only selected layers or ALL
   
   # add scaled at marker
   embed_parent = root.find('.//svg:rect[@id="{}"]/..'.format(embedded['marker']), ns) # search for marker in id

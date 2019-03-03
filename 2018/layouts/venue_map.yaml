@@ -8,7 +8,7 @@ embed:
   image: "key.svg"
   show: 
     - General
-    - Areas-
+    - Areas
 -
   marker: "L2__"
   image: "L2.svg"
