@@ -325,11 +325,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.011700737"
-     inkscape:cx="30140.721"
-     inkscape:cy="65538.415"
+     inkscape:zoom="0.014142136"
+     inkscape:cx="30943.307"
+     inkscape:cy="57759.099"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -530,6 +530,23 @@
            x="8623.874"
            y="9894.2715"
            style="stroke-width:0.26458332">Arena</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:49.99999619;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:49.9999968, 99.99999361;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1038"
+         width="6000"
+         height="1999.9999"
+         x="1100.0009"
+         y="2900.0005" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:264.58331299px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="2968.3516"
+         y="3972.9934"
+         id="text1042"><tspan
+           sodipodi:role="line"
+           id="tspan1044"
+           x="2968.3516"
+           y="3972.9934">Battery Charging</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -573,7 +590,7 @@
       </g>
       <g
          id="g4546"
-         transform="translate(7.3512096,-8001.8995)">
+         transform="translate(7.3512096,-7001.8989)">
         <circle
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:99.99999237;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80476188"
            id="circle4540"
@@ -618,7 +635,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:264.58331299px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:7.42407608">2</tspan></text>
       </g>
       <g
-         transform="translate(15614.701,-8001.8995)"
+         transform="translate(15614.701,-7001.8989)"
          id="g4562">
         <circle
            r="199.99998"
@@ -709,6 +726,27 @@
              id="tspan4582"
              sodipodi:role="line">2</tspan></text>
       </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:49.99999719;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:399.99997749,99.99999437,49.99999719,99.99999437;stroke-dashoffset:0"
+         d="M 999.99996,10999.999 H 4999.9996"
+         id="path1046"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:49.9999968;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:399.99997444, 99.99999361000000420, 49.99999679999999813, 99.99999361000000420;stroke-dashoffset:0"
+         d="m 7999.9996,4999.9994 v 800.0002"
+         id="path1048"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:264.58331643px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         x="1999.9999"
+         y="7999.9995"
+         id="text1052"><tspan
+           sodipodi:role="line"
+           id="tspan1050"
+           x="1999.9999"
+           y="7999.9995"
+           style="stroke-width:0.26458332;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:264.58331643px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Staging Area</tspan></text>
     </g>
   </g>
   <g

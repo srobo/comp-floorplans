@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5500842"
-     inkscape:cx="346.79314"
-     inkscape:cy="232.09222"
+     inkscape:zoom="3.1001684"
+     inkscape:cx="100.03235"
+     inkscape:cy="206.28717"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="1006"
@@ -220,6 +220,21 @@
          id="tspan2366"
          x="50"
          y="116.99999">Table</tspan></text>
+    <text
+       id="text876"
+       y="137.10823"
+       x="50"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="137.10823"
+         x="50"
+         id="tspan874"
+         sodipodi:role="line">Barrier</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.72, 0.93, 0.465, 0.93;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 20,132.00051 H 40"
+       id="path878"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:label="General"
