@@ -326,10 +326,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.014142136"
-     inkscape:cx="30943.307"
-     inkscape:cy="57759.099"
+     inkscape:cx="30103.617"
+     inkscape:cy="74729.661"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer15"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -551,7 +551,38 @@
     <g
        inkscape:groupmode="layer"
        id="layer15"
-       inkscape:label="AreaTables" />
+       inkscape:label="AreaTables">
+      <rect
+         style="fill:#985827;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1045"
+         width="1499.9999"
+         height="799.99994"
+         x="4699.9995"
+         y="2799.9995" />
+      <rect
+         y="4199.9995"
+         x="4699.9995"
+         height="799.99994"
+         width="1499.9999"
+         id="rect1048"
+         style="fill:#985827;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#985827;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1050"
+         width="1499.9999"
+         height="799.99994"
+         x="-4699.9995"
+         y="6199.9995"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:#985827;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1062"
+         width="1499.9999"
+         height="799.99994"
+         x="-8499.999"
+         y="4100"
+         transform="rotate(-90)" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -561,7 +592,28 @@
     <g
        inkscape:groupmode="layer"
        id="layer13"
-       inkscape:label="PowerEquipment" />
+       inkscape:label="PowerEquipment">
+      <g
+         id="g1060">
+        <rect
+           y="3299.9995"
+           x="6200"
+           height="300"
+           width="300"
+           id="rect1049"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1053"
+           y="3546.3115"
+           x="6264.9277"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:264.58331299px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             y="3546.3115"
+             x="6264.9277"
+             id="tspan1055"
+             sodipodi:role="line">6</tspan></text>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer5"
