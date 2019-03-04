@@ -73,9 +73,10 @@ if TLA:
       team.text = team_names.get(team_no,'')
 
 # set scale
-  # get svg['viewbox'] fields 3&4
-  # set svg['width'] = viewbox[3]/scale
-  # set svg['height'] = viewbox[4]/scale
+old_width = root.get('width')[:-2]
+old_height = root.get('height')[:-2]
+root.set('width',str(float(old_width)/spec.get('scale',1)) + "cm")
+root.set('height',str(float(old_height)/spec.get('scale',1)) + "cm")
 
 try:
   root.find('.//svg:text[svg:tspan="{{scale}}" ]', ns)[0].text = spec.get('scale','1')

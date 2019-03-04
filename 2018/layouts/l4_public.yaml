@@ -1,5 +1,6 @@
 image: "L4.svg"
 title: "Level 4"
+scale: 150
 show:
   - General
   - Areas

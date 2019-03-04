@@ -1,5 +1,6 @@
 image: "L2.svg"
 title: "Level 2"
+scale: 200
 show: 
   - General
   - Areas

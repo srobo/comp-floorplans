@@ -1,5 +1,6 @@
 image: "L2.svg"
 title: "Level 2 Power & Network"
+scale: 200
 show: 
   - General
   - Power

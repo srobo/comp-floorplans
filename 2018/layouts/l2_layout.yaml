@@ -1,5 +1,6 @@
 image: "L2.svg"
 title: "Level 2 Layout"
+scale: 200
 show: 
   - ALL
 hide:

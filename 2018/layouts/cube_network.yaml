@@ -1,5 +1,6 @@
 image: "cube.svg"
 title: "Cube Network"
+scale: 100
 show: 
   - General
   - Network

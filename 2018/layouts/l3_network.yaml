@@ -1,5 +1,6 @@
 image: "L3.svg"
 title: "Level 3 Network"
+scale: 250
 show: 
   - General
   - Network
