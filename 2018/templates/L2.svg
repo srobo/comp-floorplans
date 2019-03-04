@@ -296,11 +296,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.04"
-     inkscape:cx="134059"
-     inkscape:cy="119201.75"
+     inkscape:zoom="0.02"
+     inkscape:cx="110159"
+     inkscape:cy="116402.76"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer9"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -1605,7 +1605,50 @@
     <g
        inkscape:groupmode="layer"
        id="layer9"
-       inkscape:label="Displays" />
+       inkscape:label="Displays">
+      <rect
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1212"
+         width="300"
+         height="300"
+         x="33050.711"
+         y="19650.717" />
+      <rect
+         y="18450.717"
+         x="33650.711"
+         height="300"
+         width="300"
+         id="rect1214"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1216"
+         width="300"
+         height="300"
+         x="40950.711"
+         y="18450.717" />
+      <rect
+         y="25750.717"
+         x="40950.711"
+         height="300"
+         width="300"
+         id="rect1218"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1220"
+         width="300"
+         height="300"
+         x="33650.711"
+         y="25750.717" />
+      <rect
+         y="24450.717"
+         x="22150.713"
+         height="300"
+         width="300"
+         id="rect1222"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"

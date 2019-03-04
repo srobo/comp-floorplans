@@ -269,11 +269,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.014142136"
-     inkscape:cx="58088.517"
+     inkscape:zoom="0.028284272"
+     inkscape:cx="44229.224"
      inkscape:cy="76627.702"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer15"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -1061,7 +1061,15 @@
     <g
        inkscape:groupmode="layer"
        id="layer15"
-       inkscape:label="Displays" />
+       inkscape:label="Displays">
+      <rect
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1100"
+         width="300.0004"
+         height="299.99988"
+         x="10650.713"
+         y="7550.7168" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"

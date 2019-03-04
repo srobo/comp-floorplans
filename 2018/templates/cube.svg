@@ -325,11 +325,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.014142136"
-     inkscape:cx="30103.617"
-     inkscape:cy="74729.661"
+     inkscape:zoom="0.028284272"
+     inkscape:cx="36043.314"
+     inkscape:cy="50688.031"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer10"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -547,6 +547,13 @@
            id="tspan1044"
            x="2968.3516"
            y="3972.9934">Battery Charging</tspan></text>
+      <rect
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1056"
+         width="300"
+         height="300"
+         x="5199.9995"
+         y="5999.9995" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -817,7 +824,52 @@
     <g
        inkscape:groupmode="layer"
        id="layer10"
-       inkscape:label="Displays" />
+       inkscape:label="Displays">
+      <rect
+         transform="translate(-1.1743019e-5,-1.2769764e-6)"
+         y="5999.9995"
+         x="12499.999"
+         height="300"
+         width="300"
+         id="rect1058"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="translate(-1.1743019e-5,-1.2769764e-6)"
+         y="5999.9995"
+         x="5199.9995"
+         height="300"
+         width="300"
+         id="rect1060"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1064"
+         width="300"
+         height="300"
+         x="4599.9995"
+         y="7499.999" />
+      <rect
+         y="7499.999"
+         x="4599.9995"
+         height="300"
+         width="300"
+         id="rect1066"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1212"
+         width="300"
+         height="300"
+         x="5199.9995"
+         y="13299.999" />
+      <rect
+         y="13299.999"
+         x="12499.999"
+         height="300"
+         width="300"
+         id="rect1214"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
