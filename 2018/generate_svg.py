@@ -59,6 +59,7 @@ root = root_tree.getroot()
 try: # set title and version
   root.find('.//svg:text[svg:tspan="{{title}}"]', ns)[0].text = spec.get('title',spec['image'])
   root.find('.//svg:text[svg:tspan="{{version}}"]', ns)[0].text = "Version: " + spec.get('version','0.1')
+  root.find('.//svg:text[svg:tspan="{{scale}}" ]', ns)[0].text = "Scale 1:" + str(spec.get('scale',1))
 except (IndexError,AttributeError,TypeError):
   pass
 
@@ -77,11 +78,6 @@ old_width = root.get('width')[:-2]
 old_height = root.get('height')[:-2]
 root.set('width',str(float(old_width)/spec.get('scale',1)) + "cm")
 root.set('height',str(float(old_height)/spec.get('scale',1)) + "cm")
-
-try:
-  root.find('.//svg:text[svg:tspan="{{scale}}" ]', ns)[0].text = spec.get('scale','1')
-except (IndexError,AttributeError,TypeError):
-  pass
 
 printLayers(root,spec.get('show',['ALL']),spec.get('hide',[]),ns=ns) # display only selected layers or ALL
 

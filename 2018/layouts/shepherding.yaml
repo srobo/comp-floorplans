@@ -3,13 +3,13 @@ title: "Shepherding"
 show: 
   - ALL
 embed:
+-
   marker: "KEY__"
   image: "key.svg"
   show: 
     - General
     - Areas
     - Shepherding
-embed:
 -
   marker: "L2__"
   image: "L2.svg"
