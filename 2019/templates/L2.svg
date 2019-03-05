@@ -317,11 +317,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.01"
-     inkscape:cx="142121.08"
-     inkscape:cy="108851.75"
+     inkscape:zoom="0.02"
+     inkscape:cx="142259"
+     inkscape:cy="137201.75"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer18"
+     inkscape:current-layer="layer17"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -1135,6 +1135,11 @@
            id="tspan1233"
            x="-19719.771"
            y="30690.182">Score Entry</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:49.99999973;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:399.99999785,99.99999946,49.99999973,99.99999946;stroke-dashoffset:0"
+         d="m 35850.712,15250.716 v 2200"
+         id="path1389"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        inkscape:groupmode="layer"

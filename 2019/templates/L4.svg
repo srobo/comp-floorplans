@@ -327,11 +327,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.020000001"
-     inkscape:cx="53415.991"
-     inkscape:cy="105646.75"
+     inkscape:zoom="0.028284273"
+     inkscape:cx="73615.99"
+     inkscape:cy="87646.751"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="svg8"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -1525,4 +1525,9 @@
        x="-15689.318"
        id="tspan2353"
        sodipodi:role="line">2.5m</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:49.99999632;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:399.99997054,99.99999264,49.99999632,99.99999264;stroke-dashoffset:0"
+     d="M 21805.925,9145.9291 V 12145.929"
+     id="path1172"
+     inkscape:connector-curvature="0" />
 </svg>
