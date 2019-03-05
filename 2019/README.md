@@ -1,4 +1,4 @@
-# Notes for 2018
+# Notes for 2019
 
 The templates here are intended to be 1:1 scale diagram of all the areas used in SUSU, they are believed to be within 5% accurate.
 Locations highlighted in red on one of the venue related layers require measurements to be taken to assure their size.
