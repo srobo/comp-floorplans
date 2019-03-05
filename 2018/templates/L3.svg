@@ -432,10 +432,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.01"
-     inkscape:cx="84856.209"
-     inkscape:cy="123530.24"
+     inkscape:cx="55268.907"
+     inkscape:cy="145336.09"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer11"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -2151,14 +2151,14 @@
            y="25550.709" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:264.58334351px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="27819.385"
-           y="25798.895"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:229.30555725px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="27753.27"
+           y="25784.18"
            id="text1501"><tspan
              sodipodi:role="line"
-             id="tspan1499"
-             x="27819.385"
-             y="25798.895">4</tspan></text>
+             id="tspan1417"
+             x="27753.27"
+             y="25784.18">20</tspan></text>
       </g>
     </g>
     <g
@@ -2260,8 +2260,8 @@
          id="rect1405"
          width="300"
          height="300"
-         x="13150"
-         y="21850.709" />
+         x="12952.898"
+         y="12635.557" />
       <rect
          y="19850.709"
          x="24250"

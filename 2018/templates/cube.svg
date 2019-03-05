@@ -325,11 +325,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.028284272"
-     inkscape:cx="23173.574"
-     inkscape:cy="76763.109"
+     inkscape:zoom="0.020000001"
+     inkscape:cx="36716.783"
+     inkscape:cy="74419.963"
      inkscape:document-units="cm"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="layer13"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -624,14 +624,14 @@
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            id="text1053"
-           y="3546.3115"
-           x="6264.9277"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:264.58331299px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           y="3533.47"
+           x="6206.7959"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:229.30554199px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
            xml:space="preserve"><tspan
-             y="3546.3115"
-             x="6264.9277"
-             id="tspan1055"
-             sodipodi:role="line">6</tspan></text>
+             sodipodi:role="line"
+             id="tspan1186"
+             x="6206.7959"
+             y="3533.47">32</tspan></text>
       </g>
       <g
          id="g1083"
@@ -1173,5 +1173,10 @@
      style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 6249.9988,13781.739 h 7699.9992 100"
      id="path1202"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#00c8ff;stroke-width:49.9999968;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 5749.9988,13681.739 V 7681.7396"
+     id="path1088"
      inkscape:connector-curvature="0" />
 </svg>
