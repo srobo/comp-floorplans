@@ -431,11 +431,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.028284271"
-     inkscape:cx="82497.334"
-     inkscape:cy="135880.24"
+     inkscape:zoom="0.01"
+     inkscape:cx="84856.209"
+     inkscape:cy="123530.24"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer13"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -446,7 +446,8 @@
      fit-margin-left="300"
      fit-margin-top="300"
      fit-margin-bottom="300"
-     fit-margin-right="300">
+     fit-margin-right="300"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid14114"
@@ -2173,7 +2174,55 @@
     <g
        inkscape:groupmode="layer"
        id="layer13"
-       inkscape:label="NetworkEquipment" />
+       inkscape:label="NetworkEquipment">
+      <path
+         style="display:inline;fill:none;stroke:#00c8ff;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 40849.999,46050.707 -3499.999,10e-4 v -1900 l 1900,0 v 100"
+         id="path1409"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="display:inline;fill:none;stroke:#00c8ff;stroke-width:49.99999937;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 37050.001,46150.709 h 199.998 v -2100 H 39350 v 199.998"
+         id="path1413"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:none;stroke:#00c8ff;stroke-width:49.99999937;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 39449.999,44250.707 v -199.998 h 2599.999 v -100.002"
+         id="path1415"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66665649px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="42046.445"
+         y="43601.043"
+         id="text1419"><tspan
+           sodipodi:role="line"
+           id="tspan1421"
+           x="42046.445"
+           y="43601.043">Drop to</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1423"
+           x="42046.445"
+           y="43865.625">Arena</tspan></text>
+      <rect
+         style="fill:#00c8ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:50;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1431"
+         width="400"
+         height="300"
+         x="39150"
+         y="44250.707" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66665649px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+         x="39342.715"
+         y="44477.859"
+         id="text1435"><tspan
+           sodipodi:role="line"
+           id="tspan1439"
+           x="39342.715"
+           y="44477.859">R</tspan></text>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer12"
@@ -2189,6 +2238,18 @@
          sodipodi:start="0"
          sodipodi:end="3.1415927"
          d="m 41050.003,46050.707 a 200.00342,200 0 0 1 -100.001,173.205 200.00342,200 0 0 1 -200.004,0 200.00342,200 0 0 1 -100.001,-173.205 l 200.003,0 z" />
+      <path
+         d="m -45950.704,37050 a 200.00342,200 0 0 1 -100.001,173.205 200.00342,200 0 0 1 -200.004,0 200.00342,200 0 0 1 -100.001,-173.205 l 200.003,0 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         sodipodi:ry="200"
+         sodipodi:rx="200.00342"
+         sodipodi:cy="37050"
+         sodipodi:cx="-46150.707"
+         sodipodi:type="arc"
+         id="path1407"
+         style="fill:#c800ff;fill-opacity:1;stroke:none;stroke-width:57.73551941;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="rotate(-90)" />
     </g>
     <g
        inkscape:groupmode="layer"

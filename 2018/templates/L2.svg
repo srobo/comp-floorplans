@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -18,6 +19,26 @@
    sodipodi:docname="L2.svg">
   <defs
      id="defs8285">
+    <linearGradient
+       id="linearGradient2804"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop2800" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="1"
+         id="stop2802" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1357"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop1355" />
+    </linearGradient>
     <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
@@ -296,11 +317,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.02"
-     inkscape:cx="110159"
-     inkscape:cy="116402.76"
+     inkscape:zoom="0.01"
+     inkscape:cx="132359"
+     inkscape:cy="96851.75"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer17"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -311,7 +332,8 @@
      fit-margin-top="300"
      fit-margin-left="300"
      fit-margin-bottom="300"
-     fit-margin-right="300">
+     fit-margin-right="300"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid8293"
@@ -889,15 +911,20 @@
          y="18250.717" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:515.61529541px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51722908"
-         x="36715.43"
-         y="22435.01"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:515.61999512px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51722908"
+         x="37450.836"
+         y="22062.773"
          id="text1160"><tspan
            sodipodi:role="line"
            id="tspan1158"
-           x="36715.43"
-           y="22435.01"
-           style="stroke-width:0.51722908">Arena</tspan></text>
+           x="37450.836"
+           y="22062.773"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:515.61999512px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.51722908">Arena</tspan><tspan
+           sodipodi:role="line"
+           x="37450.836"
+           y="22707.299"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:515.61999512px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.51722908"
+           id="tspan1240">(See Cube Layout)</tspan></text>
       <rect
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:50.00000126, 150.00000378;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1293"
@@ -992,6 +1019,17 @@
            id="tspan1784"
            x="4279.9058"
            y="43549.352">Volunteer Area</tspan></text>
+      <text
+         xml:space="preserve"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:246.94444275px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-19719.771"
+         y="30690.182"
+         id="text1231"
+         transform="rotate(-90,2.4210298e-6,-2.3097619e-6)"><tspan
+           sodipodi:role="line"
+           id="tspan1233"
+           x="-19719.771"
+           y="30690.182">Score Entry</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1097,6 +1135,14 @@
          width="1500.094"
          id="rect1215"
          style="fill:#985827;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.90600967;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#985827;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.90600967;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1227"
+         width="1500.094"
+         height="800.09399"
+         x="-19750.811"
+         y="29650.713"
+         transform="rotate(-90)" />
     </g>
   </g>
   <g
@@ -1254,6 +1300,27 @@
              id="tspan1209"
              x="21520.627"
              y="10698.902">6</tspan></text>
+      </g>
+      <g
+         transform="translate(8199.9991,7899.9996)"
+         id="g1241">
+        <rect
+           y="10450.717"
+           x="21450.713"
+           height="300"
+           width="300"
+           id="rect1235"
+           style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1239"
+           y="10698.902"
+           x="21520.627"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:264.58334351px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             y="10698.902"
+             x="21520.627"
+             id="tspan1237"
+             sodipodi:role="line">2</tspan></text>
       </g>
     </g>
     <g
@@ -1585,7 +1652,27 @@
     <g
        inkscape:groupmode="layer"
        id="layer11"
-       inkscape:label="NetworkEquipment" />
+       inkscape:label="NetworkEquipment">
+      <path
+         style="fill:none;stroke:#00c8ff;stroke-width:49.99999973;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 22250.712,24650.716 h -1000 v -14200 h 1000"
+         id="path2830"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="21793.268"
+         y="23488.135"
+         id="text2834"><tspan
+           sodipodi:role="line"
+           id="tspan2836"
+           x="21793.268"
+           y="23488.135">Run Over</tspan><tspan
+           sodipodi:role="line"
+           id="tspan2838"
+           x="21793.268"
+           y="23752.719">Ceiling</tspan></text>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer10"
@@ -1601,6 +1688,37 @@
          sodipodi:start="0"
          sodipodi:end="3.1415927"
          d="m 22450.713,10450.717 a 200,200 0 0 1 -100,173.205 200,200 0 0 1 -200,0 200,200 0 0 1 -100,-173.205 l 200,0 z" />
+      <path
+         d="m 30250.713,15250.717 a 200,200 0 0 1 -100,173.205 200,200 0 0 1 -200,0 200,200 0 0 1 -100,-173.205 l 200,0 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         sodipodi:ry="200"
+         sodipodi:rx="200"
+         sodipodi:cy="15250.717"
+         sodipodi:cx="30050.713"
+         sodipodi:type="arc"
+         id="path1237"
+         style="fill:#c800ff;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:50.00000056, 150.00000168;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.1111145px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="30049.154"
+         y="14984.571"
+         id="text2820"><tspan
+           sodipodi:role="line"
+           id="tspan2824"
+           x="30049.154"
+           y="14984.571">To</tspan><tspan
+           sodipodi:role="line"
+           id="tspan2826"
+           x="30049.154"
+           y="15160.96">Balcony</tspan></text>
+      <path
+         style="fill:none;stroke:#00c8ff;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 30050.712,15250.716 -400,0 v 2600 800 h 199.999"
+         id="path2828"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1613,34 +1731,6 @@
          height="300"
          x="33050.711"
          y="19650.717" />
-      <rect
-         y="18450.717"
-         x="33650.711"
-         height="300"
-         width="300"
-         id="rect1214"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1216"
-         width="300"
-         height="300"
-         x="40950.711"
-         y="18450.717" />
-      <rect
-         y="25750.717"
-         x="40950.711"
-         height="300"
-         width="300"
-         id="rect1218"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1220"
-         width="300"
-         height="300"
-         x="33650.711"
-         y="25750.717" />
       <rect
          y="24450.717"
          x="22150.713"
