@@ -7,6 +7,10 @@ Locations highlighted in red on one of the venue related layers require measurem
 - \> python 3.6
 - PyYaml
 
+```bash
+pip3 install --user -U -r requirements.txt
+```
+
 ## Layers
 #### Floorplan layers:
 - Notes *(Additional notes)*

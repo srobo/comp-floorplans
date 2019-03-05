@@ -69,9 +69,9 @@ with open('team_names.txt','r') as file:
 TLA = root.find('svg:g[@inkscape:label="TLA"]',ns) # add team names
 if TLA:
   for team in TLA.findall('.//svg:text/svg:tspan',ns):
-    team_no = re.search(r'@T_\d+',team.text)
+    team_no = re.search(r'@T_(\d+)',team.text)
     if team_no:
-      team.text = team_names.get(team_no,'')
+      team.text = team_names.get(int(team_no[1]),'')
 
 # set scale
 old_width = root.get('width')[:-2]
@@ -88,9 +88,9 @@ for embedded in spec.get('embed',[]): # add nested svgs (including key)
   TLA = root.find('svg:g[@inkscape:label="TLA"]',ns) # add team names
   if TLA:
     for team in TLA.findall('.//svg:text/svg:tspan',ns):
-      team_no = re.search(r'@T_\d+',team.text)
+      team_no = re.search(r'@T_(\d+)',team.text)
       if team_no:
-        team.text = team_names.get(team_no,'')
+        team.text = team_names.get(int(team_no[1]),'')
   
   printLayers(embedded_root,embedded.get('show',['ALL']),embedded.get('hide',[]),ns=ns) # display only selected layers or ALL
   
