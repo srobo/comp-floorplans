@@ -317,11 +317,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.02"
-     inkscape:cx="142259"
-     inkscape:cy="137201.75"
+     inkscape:zoom="0.014142136"
+     inkscape:cx="88320.658"
+     inkscape:cy="112456.58"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -876,6 +876,26 @@
          id="path1774"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.77777588px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+         x="-6522"
+         y="-3497.2209"
+         id="text1286"><tspan
+           sodipodi:role="line"
+           id="tspan1290">Ladies</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1292">WC</tspan></text>
+      <text
+         id="text1298"
+         y="-3815.2717"
+         x="-684.83356"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.77777588px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan1300">Mens</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1303">WC</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1918,6 +1938,34 @@
          width="300"
          id="rect1222"
          style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="24450.717"
+         x="29450.713"
+         height="300"
+         width="300"
+         id="rect1270"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1272"
+         width="300"
+         height="300"
+         x="7950.7119"
+         y="40350.715" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66667175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="7819.0923"
+         y="40850.715"
+         id="text1276"><tspan
+           sodipodi:role="line"
+           id="tspan1280"
+           x="7819.0923"
+           y="40850.715">Computer</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1282"
+           x="7819.0923"
+           y="41115.297">Screen</tspan></text>
     </g>
   </g>
   <g

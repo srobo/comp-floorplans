@@ -664,11 +664,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.014142136"
-     inkscape:cx="125526.77"
-     inkscape:cy="47880.244"
+     inkscape:zoom="0.028284272"
+     inkscape:cx="126658.14"
+     inkscape:cy="86064.009"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer11"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -2607,12 +2607,26 @@
          x="12952.898"
          y="12635.557" />
       <rect
-         y="19850.709"
-         x="24250"
+         y="35250.707"
+         x="34050"
          height="300"
          width="300"
          id="rect1407"
          style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.66665649px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="34914.824"
+         y="35341.355"
+         id="text1590"><tspan
+           sodipodi:role="line"
+           id="tspan1594"
+           x="34914.824"
+           y="35341.355">Computer</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1596"
+           x="34914.824"
+           y="35605.938">Screen</tspan></text>
     </g>
   </g>
   <g

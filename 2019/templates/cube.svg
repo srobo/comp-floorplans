@@ -325,11 +325,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.028284271"
-     inkscape:cx="18087.074"
-     inkscape:cy="64336.704"
+     inkscape:zoom="0.056568542"
+     inkscape:cx="11652.402"
+     inkscape:cy="51608.782"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer10"
      showgrid="true"
      units="cm"
      inkscape:window-width="1680"
@@ -1121,6 +1121,13 @@
          sodipodi:start="0"
          sodipodi:end="3.1415927"
          d="m 1800,2799.9995 a 199.99998,199.99998 0 0 1 -100,173.2051 199.99998,199.99998 0 0 1 -200,0 199.99998,199.99998 0 0 1 -100,-173.2051 l 200,0 z" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1122"
+         width="300"
+         height="300"
+         x="999.99994"
+         y="12199.999" />
     </g>
   </g>
   <g
