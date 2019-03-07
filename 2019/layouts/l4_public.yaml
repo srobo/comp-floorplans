@@ -1,5 +1,6 @@
 image: "L4.svg"
 title: "Level 4"
+version: 0.5
 scale: 150
 show:
   - General

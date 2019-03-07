@@ -1,5 +1,6 @@
 image: "cube.svg"
 title: "Cube Power"
+version: 0.5
 scale: 100
 show: 
   - General

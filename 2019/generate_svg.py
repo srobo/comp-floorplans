@@ -58,7 +58,7 @@ root = root_tree.getroot()
 
 try: # set title and version
   root.find('.//svg:text[svg:tspan="{{title}}"]', ns)[0].text = spec.get('title',spec['image'])
-  root.find('.//svg:text[svg:tspan="{{version}}"]', ns)[0].text = "Version: " + spec.get('version','0.1')
+  root.find('.//svg:text[svg:tspan="{{version}}"]', ns)[0].text = "Version: " + str(spec.get('version',0.1))
   root.find('.//svg:text[svg:tspan="{{scale}}" ]', ns)[0].text = "Scale 1:" + str(spec.get('scale',1))
 except (IndexError,AttributeError,TypeError):
   pass

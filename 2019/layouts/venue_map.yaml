@@ -1,5 +1,6 @@
 image: "layout.svg"
 title: "Venue Map"
+version: 0.5
 show: 
   - ALL
 embed:
