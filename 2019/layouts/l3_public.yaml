@@ -1,0 +1,15 @@
+image: "L3.svg"
+title: "Level 3"
+version: 0.5
+scale: 250
+show:
+  - General
+  - Areas
+  - TLA
+embed:
+-
+  marker: "KEY__"
+  image: "key.svg"
+  show:
+    - General
+    - Areas
