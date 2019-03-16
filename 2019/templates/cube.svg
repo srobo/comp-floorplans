@@ -325,16 +325,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.02"
-     inkscape:cx="23257.184"
-     inkscape:cy="75540.009"
+     inkscape:zoom="0.014142136"
+     inkscape:cx="1184.4405"
+     inkscape:cy="77836.138"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer10"
      showgrid="true"
      units="cm"
-     inkscape:window-width="1916"
+     inkscape:window-width="636"
      inkscape:window-height="1015"
-     inkscape:window-x="0"
+     inkscape:window-x="640"
      inkscape:window-y="43"
      inkscape:window-maximized="0"
      fit-margin-top="100"
@@ -716,18 +716,18 @@
          transform="rotate(-90)" />
       <rect
          transform="rotate(-90)"
-         y="2599.9998"
+         y="999.99994"
          x="-6499.9995"
          height="799.99994"
          width="1499.9999"
          id="rect1075"
          style="fill:#985827;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
-         style="fill:none;stroke:#00c8ff;stroke-width:49.99999619;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1599.9999,2799.9996 h -500 v 2199.9998 l 2299.9999,0 v 600"
+         style="fill:none;stroke:#00c8ff;stroke-width:46.29100037;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1599.9999,2799.9996 h -500 v 1885.7141 c 0,119.4267 0,412.0795 0,514.2857"
          id="path1085"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         sodipodi:nodetypes="cccc" />
       <rect
          style="fill:#985827;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1062-3"
@@ -785,7 +785,7 @@
       </g>
       <g
          id="g1083"
-         transform="translate(-3100.0002,2199.9998)">
+         transform="translate(-5200.0001,1899.9999)">
         <rect
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect1077"
@@ -1107,8 +1107,8 @@
          id="rect1060"
          style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         y="5799.9995"
-         x="3099.9998"
+         y="5499.9995"
+         x="999.99988"
          height="300"
          width="300"
          id="rect1066"
