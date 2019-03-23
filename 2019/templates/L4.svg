@@ -14,7 +14,7 @@
    viewBox="0 0 31610.925 35157.718"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="L4.svg">
   <defs
      id="defs2">
@@ -296,16 +296,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.014142137"
-     inkscape:cx="45514.772"
-     inkscape:cy="98073.157"
+     inkscape:cx="76627.467"
+     inkscape:cy="86759.45"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer19"
      showgrid="true"
      units="cm"
-     inkscape:window-width="1680"
-     inkscape:window-height="1002"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      fit-margin-top="300"
      fit-margin-left="300"
@@ -331,7 +331,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1301,7 +1301,7 @@
          sodipodi:role="line"
          id="tspan1169"
          x="11863.556"
-         y="13281.145">@T_27</tspan></text>
+         y="13281.145">@T_24</tspan></text>
     <text
        id="text1173"
        y="15781.145"
@@ -1311,7 +1311,7 @@
          y="15781.145"
          x="11863.556"
          id="tspan1171"
-         sodipodi:role="line">@T_31</tspan></text>
+         sodipodi:role="line">@T_28</tspan></text>
     <text
        id="text1177"
        y="13281.145"
@@ -1321,7 +1321,7 @@
          y="13281.145"
          x="14364.921"
          id="tspan1175"
-         sodipodi:role="line">@T_28</tspan></text>
+         sodipodi:role="line">@T_25</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.77774048px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1331,7 +1331,7 @@
          sodipodi:role="line"
          id="tspan1179"
          x="14364.921"
-         y="15781.145">@T_32</tspan></text>
+         y="15781.145">@T_29</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.77774048px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1341,7 +1341,7 @@
          sodipodi:role="line"
          id="tspan1183"
          x="16866.287"
-         y="13281.145">@T_29</tspan></text>
+         y="13281.145">@T_26</tspan></text>
     <text
        id="text1189"
        y="15781.145"
@@ -1351,7 +1351,7 @@
          y="15781.145"
          x="16866.287"
          id="tspan1187"
-         sodipodi:role="line">@T_33</tspan></text>
+         sodipodi:role="line">@T_30</tspan></text>
     <text
        id="text1193"
        y="13281.145"
@@ -1361,7 +1361,7 @@
          y="13281.145"
          x="19367.652"
          id="tspan1191"
-         sodipodi:role="line">@T_30</tspan></text>
+         sodipodi:role="line">@T_27</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:352.77774048px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1371,7 +1371,7 @@
          sodipodi:role="line"
          id="tspan1195"
          x="19367.652"
-         y="15781.145">@T_34</tspan></text>
+         y="15781.145">@T_31</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
