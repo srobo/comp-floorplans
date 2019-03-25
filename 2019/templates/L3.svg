@@ -635,16 +635,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.01"
-     inkscape:cx="52771.453"
-     inkscape:cy="170398.4"
+     inkscape:cx="139276.77"
+     inkscape:cy="46930.244"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer17"
      showgrid="true"
      units="cm"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      fit-margin-left="300"
      fit-margin-top="300"
@@ -1475,24 +1475,6 @@
            x="40215.766"
            y="45350.707"
            style="stroke-width:0.26458332">Tech</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:49.99999937, 149.99999811;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1468"
-         width="5000.0015"
-         height="3499.9971"
-         x="30849.998"
-         y="47850.711" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:263.7578125px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="32724.668"
-         y="50150.707"
-         id="text1472"><tspan
-           sodipodi:role="line"
-           id="tspan1470"
-           x="32724.668"
-           y="50150.707"
-           style="stroke-width:0.26458332">TV Studio</tspan></text>
       <flowRoot
          xml:space="preserve"
          id="flowRoot1503"
@@ -1649,11 +1631,6 @@
            x="23601.609"
            id="tspan1305"
            sodipodi:role="line">Pits</tspan></text>
-      <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:49.99999937;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:399.99999496, 99.99999873999999522, 49.99999936999999761, 99.99999873999999522;stroke-dashoffset:0"
-         d="m 30250,44650.707 3799.999,-199.998"
-         id="path1587"
-         inkscape:connector-curvature="0" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1680,13 +1657,6 @@
          height="800"
          x="40350"
          y="44150.707" />
-      <rect
-         y="48850.707"
-         x="32350"
-         height="800"
-         width="1500"
-         id="rect1313"
-         style="fill:#985827;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          style="fill:#985827;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1315"
@@ -2352,27 +2322,6 @@
            id="text1477"><tspan
              sodipodi:role="line"
              id="tspan1475"
-             x="27819.385"
-             y="25798.895">2</tspan></text>
-      </g>
-      <g
-         id="g1487"
-         transform="translate(5799.9996,23299.999)">
-        <rect
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1481"
-           width="300"
-           height="300"
-           x="27750"
-           y="25550.709" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:264.58334351px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="27819.385"
-           y="25798.895"
-           id="text1485"><tspan
-             sodipodi:role="line"
-             id="tspan1483"
              x="27819.385"
              y="25798.895">2</tspan></text>
       </g>
