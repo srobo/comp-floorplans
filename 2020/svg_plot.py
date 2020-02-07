@@ -36,7 +36,7 @@ parser.add_argument('-i','--input',help='The file to read in a previous SVG from
 parser.add_argument('-o','--output',help='The file to store the output svg in, this is required',required=True)
 parser.add_argument('-s','--scale',help='Set the scale value used for distances in commands')
 parser.add_argument('-l','--layer',help='Layer to place the path on, delimited by /')
-parser.add_argument('-S','--svg-scale',type=float, default=0.005, # 1cm on diagram is 1m real life if not scaled
+parser.add_argument('-S','--svg-scale',type=float, default=0.01, # 1cm on diagram is 1m real life at default scale
   help='Point values are equal to meters, this sets the conversion for the output vector size')
 parser.add_argument('-x',type=float,help='x-coordinate to start at, specify with -y to apply. In svg coordinates')
 parser.add_argument('-y',type=float,help='y-coordinate to start at, specify with -x to apply. In svg coordinates')
