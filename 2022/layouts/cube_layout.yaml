@@ -1,8 +1,7 @@
 image: "cube.svg"
 title: "Cube Layout"
 version: 0.5
-scale: 100
-show: 
+show:
   - ALL
 hide:
   - Shepherding
@@ -10,7 +9,7 @@ embed:
 -
   marker: "KEY__"
   image: "key.svg"
-  show: 
+  show:
     - ALL
   hide:
     - Shepherding

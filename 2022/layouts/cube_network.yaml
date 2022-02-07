@@ -1,8 +1,7 @@
 image: "cube.svg"
 title: "Cube Network"
 version: 0.5
-scale: 100
-show: 
+show:
   - General
   - Network
   - Dimensions
@@ -12,7 +11,7 @@ embed:
 -
   marker: "KEY__"
   image: "key.svg"
-  show: 
+  show:
     - ALL
   hide:
     - Shepherding

@@ -1,8 +1,8 @@
 image: "L3.svg"
 title: "Level 3 Power"
 version: 0.5
-scale: 250
-show: 
+scale: 2.5
+show:
   - General
   - Power
   - Dimensions

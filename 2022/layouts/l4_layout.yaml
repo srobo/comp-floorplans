@@ -1,7 +1,7 @@
 image: "L4.svg"
 title: "Level 4 Layout"
 version: 0.5
-scale: 150
+scale: 1.5
 show:
   - ALL
 hide:

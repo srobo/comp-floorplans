@@ -1,8 +1,8 @@
 image: "L2.svg"
 title: "Level 2"
 version: 0.5
-scale: 200
-show: 
+scale: 2
+show:
   - General
   - Areas
   - TLA
