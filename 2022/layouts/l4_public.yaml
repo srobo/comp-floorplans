@@ -1,0 +1,15 @@
+image: "L4.svg"
+title: "Level 4"
+version: 0.5
+scale: 150
+show:
+  - General
+  - Areas
+  - TLA
+embed:
+-
+  marker: "KEY__"
+  image: "key.svg"
+  show:
+    - General
+    - Areas
