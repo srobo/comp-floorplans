@@ -1,19 +1,19 @@
 image: "layout.svg"
 title: "Venue Map"
-version: 0.5
-show: 
+version: 0.1
+show:
   - ALL
 embed:
 -
   marker: "KEY__"
   image: "key.svg"
-  show: 
+  show:
     - General
     - Areas
 -
   marker: "L2__"
   image: "L2.svg"
-  show: 
+  show:
     - General
     - Areas
     - TLA
@@ -22,7 +22,7 @@ embed:
 -
   marker: "L3__"
   image: "L3.svg"
-  show: 
+  show:
     - General
     - Areas
     - TLA
@@ -31,7 +31,7 @@ embed:
 -
   marker: "L4__"
   image: "L4.svg"
-  show: 
+  show:
     - General
     - Areas
     - TLA

@@ -1,6 +1,6 @@
 image: "cube.svg"
 title: "Cube Network"
-version: 0.5
+version: 0.1
 show:
   - General
   - Network

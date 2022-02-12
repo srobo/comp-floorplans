@@ -1,6 +1,6 @@
 image: "L4.svg"
 title: "Level 4 Network"
-version: 0.5
+version: 0.1
 scale: 1.5
 show:
   - General

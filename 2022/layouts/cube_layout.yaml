@@ -1,6 +1,6 @@
 image: "cube.svg"
 title: "Cube Layout"
-version: 0.5
+version: 0.1
 show:
   - ALL
 hide:
