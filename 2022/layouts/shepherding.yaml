@@ -41,3 +41,12 @@ embed:
     - Shepherding
   hide:
     - General/GeneralLabels
+-
+  marker: "CUBE__"
+  image: "cube.svg"
+  show:
+    - General
+    - Areas
+    - TLA
+  hide:
+    - General/GeneralLabels
