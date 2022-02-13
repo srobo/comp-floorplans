@@ -74,7 +74,7 @@ def set_titles(root, title, version, scale, ns):
     with suppress(IndexError, AttributeError, TypeError):
         root.find('.//svg:text[svg:tspan="{{version}}"]', ns)[0].text = f"Version: {version}"
     with suppress(IndexError, AttributeError, TypeError):
-        root.find('.//svg:text[svg:tspan="{{scale}}" ]', ns)[0].text = f"Scale 1:{scale}"
+        root.find('.//svg:text[svg:tspan="{{scale}}" ]', ns)[0].text = f"Scale 1:{scale:.0f}"
 
     return root
 
