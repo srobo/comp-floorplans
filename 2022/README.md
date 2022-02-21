@@ -4,7 +4,7 @@ The templates here are intended to be 100:1 scale diagram of all the areas used 
 Locations highlighted in red on one of the venue related layers require measurements to be taken to assure their size.
 
 #### Requires:
-- \> python 3.6
+- Python 3.6+
 - PyYaml
 
 ```bash
