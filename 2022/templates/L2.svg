@@ -7,7 +7,7 @@
    viewBox="0 0 54244.346 51250.717"
    version="1.1"
    id="svg8291"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="L2.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -316,16 +316,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3040859"
-     inkscape:cx="765.67041"
-     inkscape:cy="884.91102"
+     inkscape:zoom="0.96071244"
+     inkscape:cx="1133.5338"
+     inkscape:cy="670.33586"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer19"
      showgrid="true"
      units="cm"
-     inkscape:window-width="2558"
-     inkscape:window-height="1401"
-     inkscape:window-x="1920"
+     inkscape:window-width="1918"
+     inkscape:window-height="1041"
+     inkscape:window-x="0"
      inkscape:window-y="18"
      inkscape:window-maximized="0"
      fit-margin-top="300"
@@ -359,6 +359,16 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="Shepherding">
+    <path
+       style="fill:#a9f5a9;fill-opacity:1;stroke:none;stroke-width:26.4582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19425,10425.358 h 8000 v 14199.999 h 200 v 2400 h -5400 v -6999.999 h -2800 z"
+       id="path1296"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"

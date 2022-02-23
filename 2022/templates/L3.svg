@@ -3,7 +3,7 @@
 
 <svg
    sodipodi:docname="L3.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    id="svg13569"
    version="1.1"
    viewBox="0 0 68699.999 56901.42"
@@ -634,16 +634,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1373993"
-     inkscape:cx="1310.4457"
-     inkscape:cy="1592.2288"
+     inkscape:zoom="0.75308801"
+     inkscape:cx="719.03946"
+     inkscape:cy="853.81786"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer17"
+     inkscape:current-layer="layer19"
      showgrid="true"
      units="cm"
-     inkscape:window-width="2558"
-     inkscape:window-height="1401"
-     inkscape:window-x="1920"
+     inkscape:window-width="1918"
+     inkscape:window-height="1041"
+     inkscape:window-x="0"
      inkscape:window-y="18"
      inkscape:window-maximized="1"
      fit-margin-left="300"
@@ -675,6 +675,21 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="Shepherding">
+    <path
+       style="fill:#f2f5a9;fill-opacity:1;stroke:none;stroke-width:26.4583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3049.9999,4650.7122 h 5400 v 200.0001 H 9050 v -200.0001 h 2400 v 200.0001 h 600 1200 V 17650.712 H 5849.9999 l 0,1500 h -2800 z"
+       id="path1662"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <path
+       style="fill:#f5a9a9;fill-opacity:1;stroke:none;stroke-width:26.4583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 34050.001,35350.711 V 20650.712 l -17200.001,0 v 2600 h -3400 v -5400 l 0,-200 -7600.0001,0 v 1500 h -2800 v 5500 h 5400 v -200 H 9050 v 200 h 2600 v -200 h 600 v 200 h 5400 v -200 h 600 v 1600 h 2400 v -1600 h 600 v 1600 h 5400 v -1600 h 600.001 v 2000 h 2399.998 v -2000 H 30250 v 2599.999 h -199.999 v 8300 z"
+       id="path1895"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
