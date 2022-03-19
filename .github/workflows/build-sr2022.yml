@@ -1,0 +1,34 @@
+name: Build sr2022 floorplan outputs
+
+on: 
+  push:
+    paths:
+      - '2022/**'
+      - '.github/workflows/build-sr2022.yml'
+jobs:
+  build-2022:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.8"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r 2022/requirements.txt
+    - name: Build sr2022 floorplans
+      run: |
+        if [ -f 2022/team_names.txt ]; then
+          python 2022/generate_svg.py --templates 2022/templates --teams 2022/team_names.txt --output 2022/output 2022/layouts
+        else
+          python 2022/generate_svg.py --templates 2022/templates --output 2022/output 2022/layouts
+        fi
+    - name: Archive floorplan files
+      uses: actions/upload-artifact@v3
+      with:
+        name: "sr2022 floorplans"
+        path: 2022/output

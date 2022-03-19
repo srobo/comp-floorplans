@@ -1,0 +1,19 @@
+image: "L3.svg"
+title: "Level 3 Network"
+version: 0.1
+scale: 2.5
+show:
+  - General
+  - Network
+  - Dimensions
+  - Areas
+  - Notes
+embed:
+-
+  marker: "KEY__"
+  image: "key.svg"
+  show:
+    - ALL
+  hide:
+    - Shepherding
+    - Power
