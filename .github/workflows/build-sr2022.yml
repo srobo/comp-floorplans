@@ -1,6 +1,6 @@
 name: Build sr2022 floorplan outputs
 
-on:
+on: 
   push:
     paths:
       - '2022/**'
@@ -23,9 +23,9 @@ jobs:
     - name: Build sr2022 floorplans
       run: |
         if [ -f 2022/team_names.txt ]; then
-          python generate_svg.py -t 2022/templates --teams 2022/team_names.txt -o 2022/output 2022/layouts
+          python 2022/generate_svg.py --templates 2022/templates --teams 2022/team_names.txt --output 2022/output 2022/layouts
         else
-          python generate_svg.py -t 2022/templates -o 2022/output 2022/layouts
+          python 2022/generate_svg.py --templates 2022/templates --output 2022/output 2022/layouts
         fi
     - name: Archive code coverage results
       uses: actions/upload-artifact@v3
