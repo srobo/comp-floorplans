@@ -27,7 +27,7 @@ jobs:
         else
           python 2022/generate_svg.py --templates 2022/templates --output 2022/output 2022/layouts
         fi
-    - name: Archive code coverage results
+    - name: Archive floorplan files
       uses: actions/upload-artifact@v3
       with:
         name: "sr2022 floorplans"
