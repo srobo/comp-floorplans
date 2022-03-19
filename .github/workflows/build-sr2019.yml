@@ -1,4 +1,4 @@
-name: Build sr2020 floorplan outputs
+name: Build sr2019 floorplan outputs
 
 on: 
   push:
