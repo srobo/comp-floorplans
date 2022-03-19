@@ -92,7 +92,7 @@ def insert_tlas(svg_root, teams, ns):
 
 def embed_svg(embedded, root, ns, template_dir, team_names=None):
     print(f"Embedding {embedded['image']}")
-    embedded_root = ET.parse(Path('templates/') / embedded['image']).getroot()  # load svg
+    embedded_root = ET.parse(Path(template_dir) / embedded['image']).getroot()  # load svg
 
     if team_names is not None:
         embedded_root = insert_tlas(embedded_root, team_names, ns)
