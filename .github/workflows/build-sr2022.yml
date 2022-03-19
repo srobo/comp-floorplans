@@ -3,7 +3,7 @@ name: Build sr2022 floorplan outputs
 on:
   push:
     paths:
-      - '2020/**'
+      - '2022/**'
 jobs:
   build-2022:
 
