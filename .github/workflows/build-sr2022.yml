@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '2022/**'
+      - '.github'
 jobs:
   build-2022:
 
