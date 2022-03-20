@@ -44,7 +44,7 @@ try:
 except json.JSONDecodeError:
   with open('layouts/' + sys.argv[1],'r') as file:
     print('Using yaml')
-    spec = yaml.load(file) # load yaml specification
+    spec = yaml.safe_load(file) # load yaml specification
 
 with open('templates/' + spec['image'],'r') as file:
   ns = dict([ node for _, node in ET.iterparse(file,events=['start-ns'])])
@@ -64,7 +64,7 @@ except (IndexError,AttributeError,TypeError):
   pass
 
 with open('team_names.txt','r') as file:
-  team_names = yaml.load(file)
+  team_names = yaml.safe_load(file)
 
 TLA = root.find('svg:g[@inkscape:label="TLA"]',ns) # add team names
 if TLA:
