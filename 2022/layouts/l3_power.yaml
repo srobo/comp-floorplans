@@ -1,7 +1,7 @@
 image: "L3.svg"
 title: "Level 3 Power"
 version: 0.1
-scale: 2.5
+scale: 3
 show:
   - General
   - Power
