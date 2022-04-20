@@ -3,7 +3,7 @@
 
 <svg
    sodipodi:docname="L3.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    id="svg13569"
    version="1.1"
    viewBox="0 0 68699.999 56901.42"
@@ -634,17 +634,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7560501"
-     inkscape:cx="302.60699"
-     inkscape:cy="876.97972"
+     inkscape:zoom="1.4220868"
+     inkscape:cx="149.42829"
+     inkscape:cy="563.25677"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer19"
+     inkscape:current-layer="layer11"
      showgrid="true"
      units="cm"
      inkscape:window-width="1918"
      inkscape:window-height="1041"
-     inkscape:window-x="960"
-     inkscape:window-y="1458"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
      inkscape:window-maximized="1"
      fit-margin-left="300"
      fit-margin-top="300"
@@ -2829,7 +2829,14 @@
          width="300"
          height="300"
          x="3050"
-         y="12750.712" />
+         y="11317.378" />
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1405-2"
+         width="300"
+         height="300"
+         x="3050"
+         y="17684.045" />
       <rect
          style="display:inline;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1405-3"
