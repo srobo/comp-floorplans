@@ -634,17 +634,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8720732"
-     inkscape:cx="497.84377"
-     inkscape:cy="794.30654"
+     inkscape:zoom="2.7560501"
+     inkscape:cx="302.60699"
+     inkscape:cy="876.97972"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer19"
      showgrid="true"
      units="cm"
-     inkscape:window-width="2558"
-     inkscape:window-height="1401"
-     inkscape:window-x="1920"
-     inkscape:window-y="18"
+     inkscape:window-width="1918"
+     inkscape:window-height="1041"
+     inkscape:window-x="960"
+     inkscape:window-y="1458"
      inkscape:window-maximized="1"
      fit-margin-left="300"
      fit-margin-top="300"
@@ -2824,12 +2824,26 @@
        id="layer11"
        inkscape:label="Displays">
       <rect
-         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1405"
          width="300"
          height="300"
-         x="12952.898"
-         y="12635.557" />
+         x="3050"
+         y="12750.712" />
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1405-3"
+         width="300"
+         height="300"
+         x="3350"
+         y="24050.711" />
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1405-38"
+         width="300"
+         height="300"
+         x="3350"
+         y="4950.7119" />
       <rect
          y="35250.707"
          x="34050"
