@@ -1,0 +1,48 @@
+image: "layout.svg"
+title: "Venue Map"
+version: 0.1
+show:
+  - ALL
+embed:
+-
+  marker: "KEY__"
+  image: "key.svg"
+  show:
+    - General
+    - Areas
+-
+  marker: "L2__"
+  image: "L2.svg"
+  show:
+    - General
+    - Areas
+    - TLA
+  hide:
+    - General/GeneralLabels
+-
+  marker: "L3__"
+  image: "L3.svg"
+  show:
+    - General
+    - Areas
+    - TLA
+  hide:
+    - General/GeneralLabels
+-
+  marker: "L4__"
+  image: "L4.svg"
+  show:
+    - General
+    - Areas
+    - TLA
+  hide:
+    - General/GeneralLabels
+-
+  marker: "CUBE__"
+  image: "cube.svg"
+  show:
+    - General
+    - Areas
+    - TLA
+  hide:
+    - General/GeneralLabels
