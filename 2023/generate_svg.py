@@ -176,7 +176,7 @@ def generate_svg(spec_path, template_dir, out_dir, base_scale, teams_file=None):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('specs', type=Path, default=Path('layouts/'), help=(
+    parser.add_argument('specs', type=Path, nargs=argparse.OPTIONAL, default=Path('layouts/'), help=(
         "Folder or file containing the YAML/JSON that defines what output SVG's are created, "
         "defaults to '%(default)s'"
     ))
