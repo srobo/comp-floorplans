@@ -21,11 +21,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r 2023/requirements.txt
 
+          sudo apt-get update
+          sudo apt-get install inkscape
+
       - name: Build sr2023 floorplans
         run: |
           cd 2023
           ./generate_svg.py --teams team_names.yaml
+
           ./populate-map.py
+          inkscape --export-type=pdf,png --export-dpi=192 output/map-with-teams.svg
 
       - name: Archive floorplan files
         uses: actions/upload-artifact@v3
