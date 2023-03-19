@@ -25,6 +25,7 @@ jobs:
         run: |
           cd 2023
           ./generate_svg.py --teams team_names.yaml
+          ./populate-map.py
 
       - name: Archive floorplan files
         uses: actions/upload-artifact@v3
