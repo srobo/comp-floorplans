@@ -1,0 +1,33 @@
+name: Build SR2023 floorplan outputs
+
+on:
+  push:
+    paths:
+      - '2023/**'
+      - '.github/workflows/build-sr2023.yml'
+jobs:
+  build-2023:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r 2023/requirements.txt
+
+      - name: Build sr2023 floorplans
+        run: |
+          cd 2023
+          ./generate_svg.py
+
+      - name: Archive floorplan files
+        uses: actions/upload-artifact@v3
+        with:
+          name: "sr2023 floorplans"
+          path: 2023/output
