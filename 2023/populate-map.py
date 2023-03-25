@@ -12,7 +12,8 @@ def insert_tla_list(svg_root, teams, ns):
     teams_alphabetical = sorted(teams.items(), key=lambda x: x[1])
     teams_alphabetical = (
         (idx, tla) for idx, tla in teams_alphabetical
-        if tla != '—'  # remove unused pits, represented with an em dash
+        # remove unused pits, represented with an em dash or hyphen
+        if tla not in ['—', '-']
     )
     team_dict = dict(enumerate(teams_alphabetical, start=1))
 
