@@ -24,7 +24,7 @@ jobs:
       - name: Build sr2023 floorplans
         run: |
           cd 2023
-          ./generate_svg.py
+          ./generate_svg.py --teams team_names.yaml
 
       - name: Archive floorplan files
         uses: actions/upload-artifact@v3

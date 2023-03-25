@@ -186,9 +186,8 @@ def main():
     parser.add_argument('-t', '--templates', type=Path, default=Path('templates/'), help=(
         "Folder containing the template SVG's, defaults to '%(default)s'"
     ))
-    parser.add_argument('--teams', type=Path, default=Path('team_names.yaml'), help=(
-        "The YAML/JSON file containing a mapping of number to TLA, "
-        "defaults to '%(default)s'"
+    parser.add_argument('--teams', type=Path, default=None, help=(
+        "The YAML/JSON file containing a mapping of number to TLA"
     ))
     parser.add_argument('-o', '--output', type=Path, default=Path('output/'), help=(
         "Folder to store the output SVG's, defaults to '%(default)s'"
