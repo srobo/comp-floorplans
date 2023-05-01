@@ -24,6 +24,17 @@ jobs:
           sudo apt-get update
           sudo apt-get install inkscape
 
+      - name: Install fonts
+        run: |
+          sudo mkdir -p /usr/share/fonts/sr-fonts
+
+          for f in resources/*.zip
+          do
+            unzip $f -d /usr/share/fonts/sr-fonts/$(basename ${f/.zip})
+          done
+
+          sudo fc-cache -fv
+
       - name: Build sr2023 floorplans
         run: |
           cd 2023
