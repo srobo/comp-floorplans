@@ -5,6 +5,8 @@ on:
     paths:
       - '2024/**'
       - '.github/workflows/build-sr2024.yml'
+  workflow_dispatch:
+
 jobs:
   build-2024:
     runs-on: ubuntu-latest
