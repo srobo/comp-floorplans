@@ -7,7 +7,7 @@
    viewBox="0 0 31610.925 35157.718"
    version="1.1"
    id="svg8"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    sodipodi:docname="L4.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -296,15 +296,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.97694113"
-     inkscape:cx="182.20136"
-     inkscape:cy="668.41284"
+     inkscape:cx="699.12094"
+     inkscape:cy="603.92585"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer15"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
-     inkscape:window-x="1920"
+     inkscape:window-x="1921"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      fit-margin-top="300"
@@ -358,24 +358,24 @@
          x="-600.00055"
          y="76480" />
       <rect
-         style="fill:#ff6464;fill-opacity:1;stroke:none;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:#ff6464;fill-opacity:1;stroke:none;stroke-width:80.2103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3073"
-         width="2599.9998"
-         height="8319.999"
-         x="-3460.0005"
-         y="88960" />
+         width="2300"
+         height="3580.5034"
+         x="-3175.6309"
+         y="94998.219" />
       <rect
-         style="fill:#ff6464;fill-opacity:1;stroke:none;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:#ff6464;fill-opacity:1;stroke:none;stroke-width:127.096;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3075"
-         width="6500"
+         width="6212.8257"
          height="2599.9998"
-         x="-3460.0005"
-         y="88960" />
+         x="-3172.8262"
+         y="94999.469" />
       <rect
-         style="fill:#ff6464;fill-opacity:1;stroke:none;stroke-width:114.018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:#ff6464;fill-opacity:1;stroke:none;stroke-width:139.874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3077"
          width="1999.9999"
-         height="11960"
+         height="17999.471"
          x="1799.9999"
          y="79600" />
     </g>
@@ -472,18 +472,12 @@
          d="M 2520.0002,-7883.0039 Z"
          id="path861"
          inkscape:connector-curvature="0" />
-      <rect
-         style="stroke:#000000;stroke-width:130;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect863"
-         width="260"
-         height="260"
-         x="2260.0002"
-         y="-7883.002" />
       <path
          style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -599.99988,-7883.0039 v 3120.0013 H 5380.0002 v -3120.0013"
+         d="m -599.99988,-7883.0039 v 3120.0013 H -3721.1789"
          id="path865"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 5380.0002,-4763.0026 h 2340 v -780.0011 h 779.9999 v 3640.0009"
@@ -508,14 +502,16 @@
          inkscape:connector-curvature="0" />
       <path
          style="fill:none;stroke:#000000;stroke-width:65;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:195, 195;stroke-dashoffset:0;stroke-opacity:1"
-         d="M -599.99988,-7623.0023 H 5380.0002"
+         d="M -3704.7673,-7623.0023 H -585.39137"
          id="path2358"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:65;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:195, 195;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 5380.0002,-6843.0045 H -599.99988"
+         d="m -607.39617,-6843.0045 -3097.37113,0"
          id="path2360"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
@@ -620,7 +616,7 @@
          inkscape:connector-curvature="0" />
       <path
          style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -599.99988,-6323.0022 c 520.0013,0 1040.0013,520 1040,1040 h -1040"
+         d="m -3711.9487,-6323.0022 c 520.0013,0 1040.0013,520 1040,1040 h -1040"
          id="path2965"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccc" />
@@ -671,7 +667,7 @@
            sodipodi:role="line"
            id="tspan3058"
            x="-2087.2612"
-           y="3100.9897"
+           y="3100.9893"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none">other areas</tspan></text>
       <text
          xml:space="preserve"
@@ -1069,13 +1065,6 @@
          height="299.99988"
          x="10650.713"
          y="7550.7168" />
-      <rect
-         style="display:inline;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1100-6"
-         width="300.0004"
-         height="299.99988"
-         x="16759.355"
-         y="14306.15" />
     </g>
   </g>
   <g
