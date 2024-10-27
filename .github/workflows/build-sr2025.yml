@@ -1,0 +1,52 @@
+name: Build SR2024 floorplan outputs
+
+on:
+  push:
+    paths:
+      - '2025/**'
+      - '.github/workflows/build-sr2025.yml'
+  workflow_dispatch:
+
+jobs:
+  build-2024:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r 2025/requirements.txt
+
+          sudo apt-get update
+          sudo apt-get install inkscape
+
+      - name: Install fonts
+        run: |
+          sudo mkdir -p /usr/share/fonts/sr-fonts
+
+          for f in resources/*.zip
+          do
+            unzip $f -d /usr/share/fonts/sr-fonts/$(basename ${f/.zip})
+          done
+
+          sudo fc-cache -fv
+
+      - name: Build sr2025 floorplans
+        run: |
+          cd 2025
+          ./generate_svg.py --teams team_names.yaml
+
+          ./populate-map.py
+          inkscape --export-type=pdf,png --export-dpi=192 output/map-with-teams.svg
+
+      - name: Archive floorplan files
+        uses: actions/upload-artifact@v3
+        with:
+          name: "sr2025 floorplans"
+          path: 2025/output
