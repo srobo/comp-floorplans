@@ -324,11 +324,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7251126"
-     inkscape:cx="202.8853"
-     inkscape:cy="375.04797"
+     inkscape:zoom="2.5792517"
+     inkscape:cx="158.96083"
+     inkscape:cy="296.20994"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer16"
      showgrid="true"
      units="cm"
      inkscape:window-width="2560"
@@ -671,17 +671,17 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="2712.842"
-         y="8568.9795"
+         x="3355.8015"
+         y="11596.682"
          id="text1052"><tspan
            sodipodi:role="line"
            id="tspan1050"
-           x="2712.842"
-           y="8568.9795"
+           x="3355.8015"
+           y="11596.682"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">Staging</tspan><tspan
            sodipodi:role="line"
-           x="2712.842"
-           y="9098.1455"
+           x="3355.8015"
+           y="12125.848"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
            id="tspan22382">Area</tspan></text>
     </g>
@@ -695,8 +695,9 @@
          id="rect1062"
          width="1499.9999"
          height="799.99994"
-         x="4135.0654"
-         y="12795.517" />
+         x="-8322.168"
+         y="2811.4883"
+         transform="rotate(-90)" />
       <rect
          transform="rotate(-90)"
          y="4819.8389"
@@ -710,8 +711,9 @@
          id="rect1062-3"
          width="1499.9999"
          height="799.99994"
-         x="2635.0657"
-         y="12795.517" />
+         x="-9823.292"
+         y="2810.7292"
+         transform="rotate(-90)" />
       <rect
          style="fill:#985827;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1062-5"
@@ -1138,8 +1140,8 @@
          x="1032.5349"
          y="17467.107" />
       <rect
-         y="11338.26"
-         x="999.99994"
+         y="12549.896"
+         x="5754.52"
          height="300"
          width="300"
          id="rect17853-3"
