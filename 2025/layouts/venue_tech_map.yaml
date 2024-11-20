@@ -1,0 +1,58 @@
+image: "layout_tech.svg"
+title: "Venue Tech Map"
+version: 0.1
+show:
+  - ALL
+embed:
+-
+  marker: "KEY__"
+  image: "key.svg"
+  show:
+    - General
+    - Areas
+    - Power
+    - Network
+-
+  marker: "L2__"
+  image: "L2.svg"
+  show:
+    - General
+    - Areas
+    - TLA
+    - Power
+    - Network
+  hide:
+    - General/GeneralLabels
+-
+  marker: "L3__"
+  image: "L3.svg"
+  show:
+    - General
+    - Areas
+    - TLA
+    - Power
+    - Network
+  hide:
+    - General/GeneralLabels
+-
+  marker: "L4__"
+  image: "L4.svg"
+  show:
+    - General
+    - Areas
+    - TLA
+    - Power
+    - Network
+  hide:
+    - General/GeneralLabels
+-
+  marker: "CUBE__"
+  image: "cube.svg"
+  show:
+    - General
+    - Areas
+    - TLA
+    - Power
+    - Network
+  hide:
+    - General/GeneralLabels
