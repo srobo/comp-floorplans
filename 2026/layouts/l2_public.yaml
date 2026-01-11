@@ -1,0 +1,15 @@
+image: "L2.svg"
+title: "Level 2"
+version: 0.1
+scale: 2.5
+show:
+  - General
+  - Areas
+  - TLA
+embed:
+-
+  marker: "KEY__"
+  image: "key.svg"
+  show:
+    - General
+    - Areas
