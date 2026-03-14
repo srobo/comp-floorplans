@@ -1,6 +1,6 @@
 name: Build sr2022 floorplan outputs
 
-on: 
+on:
   push:
     paths:
       - '2022/**'
@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python 3.8
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: "3.8"
     - name: Install dependencies
@@ -28,7 +28,7 @@ jobs:
           python 2022/generate_svg.py --templates 2022/templates --output 2022/output 2022/layouts
         fi
     - name: Archive floorplan files
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: "sr2022 floorplans"
         path: 2022/output
